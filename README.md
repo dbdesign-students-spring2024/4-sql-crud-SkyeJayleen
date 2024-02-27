@@ -1,5 +1,15 @@
-# SQL CRUD
+# SQL Crud Workshop
 
-An assignment to design relational database tables with particular applications in mind.
+## Part 1: Restaurant Finder
 
-The contents of this file will be deleted and replaced with the content described in the [instructions](./instructions.md)
+### Creating the table
+
+```
+CREATE TABLE restaurants(id integer primary key, category text, pricetier text, neighborhood text, openinghr text, ratingstars integer, kidfriendly integer)
+
+.mode csv
+.headers on
+select * from restaurants;
+.import restaurants.csv restaurants --skip 1
+```
+
