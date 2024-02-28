@@ -1,1001 +1,1001 @@
-id,category,pricetier,neighborhood,openinghr,ratingstars,kidfriendly
-1,indian,medium,greenwich,10:06,5,true
-2,japanese,medium,chinatown,10:22,5,true
-3,mexican,expensive,chelsea,7:34,4,false
-4,chinese,medium,noho,8:03,2,true
-5,mexican,medium,soho,10:30,5,true
-6,chinese,expensive,soho,7:53,5,false
-7,italian,medium,upper east side,7:35,2,true
-8,korean,cheap,chelsea,10:24,1,true
-9,french,medium,gramercy,8:15,1,true
-10,mexican,cheap,soho,10:40,1,false
-11,chinese,medium,lower manhattan,10:18,1,false
-12,mediterranean,medium,chinatown,10:54,4,true
-13,japanese,expensive,tribeca,10:10,1,false
-14,mexican,expensive,gramercy,9:23,1,true
-15,french,medium,east village,8:24,3,false
-16,indian,expensive,greenwich,9:10,3,false
-17,chinese,cheap,lower manhattan,10:18,4,true
-18,mediterranean,medium,soho,7:39,4,false
-19,mediterranean,cheap,east village,7:59,1,true
-20,mexican,cheap,harlem,10:01,2,false
-21,japanese,expensive,upper east side,10:02,3,true
-22,italian,medium,greenwich,9:57,1,true
-23,italian,cheap,greenwich,8:46,3,true
-24,japanese,expensive,tribeca,9:59,1,false
-25,italian,cheap,upper east side,10:48,4,false
-26,korean,cheap,chelsea,8:40,3,false
-27,mexican,cheap,soho,9:12,5,false
-28,mexican,cheap,lower manhattan,8:28,5,true
-29,italian,cheap,financial district,10:30,2,false
-30,italian,medium,harlem,10:24,2,true
-31,japanese,cheap,noho,9:19,2,false
-32,french,cheap,noho,9:14,5,true
-33,italian,cheap,upper east side,8:47,1,false
-34,mexican,medium,financial district,10:06,1,false
-35,indian,expensive,financial district,8:55,3,false
-36,chinese,medium,upper east side,8:28,3,true
-37,korean,expensive,harlem,8:48,3,false
-38,italian,medium,soho,8:28,1,true
-39,mediterranean,expensive,noho,9:26,3,true
-40,french,cheap,chelsea,10:25,1,true
-41,italian,expensive,lower manhattan,9:39,5,false
-42,indian,cheap,harlem,8:31,1,true
-43,korean,cheap,upper east side,7:21,5,true
-44,mediterranean,medium,chinatown,7:27,1,false
-45,italian,expensive,chinatown,7:35,1,false
-46,indian,expensive,gramercy,8:05,3,false
-47,korean,cheap,upper east side,8:46,1,true
-48,korean,expensive,financial district,9:42,4,true
-49,indian,medium,noho,10:53,5,false
-50,italian,expensive,soho,10:24,2,true
-51,italian,medium,financial district,9:14,4,true
-52,japanese,medium,lower manhattan,8:39,5,false
-53,mexican,cheap,upper east side,8:51,5,true
-54,korean,cheap,soho,7:57,2,false
-55,japanese,medium,tribeca,10:01,4,true
-56,french,medium,gramercy,10:04,3,true
-57,mexican,cheap,greenwich,9:44,5,true
-58,mediterranean,medium,soho,7:57,5,false
-59,italian,medium,upper east side,10:58,1,false
-60,japanese,expensive,chelsea,7:59,2,true
-61,italian,expensive,tribeca,10:12,1,true
-62,mexican,cheap,noho,10:32,3,true
-63,mexican,cheap,soho,8:46,1,true
-64,indian,cheap,greenwich,7:21,2,false
-65,italian,medium,harlem,10:49,2,false
-66,korean,cheap,east village,10:23,3,true
-67,french,medium,east village,10:38,3,true
-68,italian,cheap,tribeca,10:28,2,true
-69,mexican,expensive,chinatown,10:39,2,false
-70,mexican,expensive,harlem,9:56,3,false
-71,chinese,expensive,upper east side,8:14,4,false
-72,french,expensive,lower manhattan,7:13,1,false
-73,italian,medium,soho,8:43,2,false
-74,japanese,medium,noho,10:51,5,true
-75,french,expensive,upper east side,8:09,5,false
-76,korean,expensive,noho,9:20,4,false
-77,korean,medium,chinatown,10:51,5,true
-78,french,expensive,east village,9:32,5,false
-79,french,cheap,tribeca,8:37,5,false
-80,italian,cheap,chelsea,10:42,3,false
-81,chinese,cheap,soho,9:32,5,true
-82,french,medium,greenwich,9:29,2,false
-83,indian,medium,tribeca,8:59,5,true
-84,chinese,expensive,noho,8:37,1,true
-85,korean,expensive,chinatown,7:03,2,true
-86,mediterranean,cheap,soho,9:23,2,true
-87,french,medium,upper east side,8:58,1,false
-88,mediterranean,medium,soho,10:38,4,true
-89,chinese,cheap,upper east side,10:40,4,false
-90,french,medium,greenwich,8:18,4,true
-91,mediterranean,medium,noho,10:40,3,false
-92,indian,medium,chinatown,10:19,1,true
-93,french,expensive,soho,8:19,2,false
-94,mediterranean,medium,chinatown,8:29,4,false
-95,italian,cheap,tribeca,8:54,2,true
-96,mexican,expensive,greenwich,7:59,1,false
-97,italian,cheap,greenwich,8:16,1,false
-98,italian,expensive,upper east side,9:17,2,true
-99,italian,expensive,chinatown,9:11,4,true
-100,mediterranean,medium,chinatown,9:55,3,true
-101,french,expensive,noho,10:01,4,false
-102,mexican,cheap,financial district,9:34,1,false
-103,italian,expensive,lower manhattan,10:13,2,true
-104,mediterranean,medium,gramercy,7:47,5,false
-105,japanese,cheap,chelsea,10:50,2,false
-106,japanese,cheap,gramercy,10:23,4,false
-107,mexican,medium,soho,7:32,3,false
-108,japanese,medium,soho,10:31,2,false
-109,mediterranean,medium,soho,8:17,1,false
-110,mediterranean,cheap,financial district,9:26,4,true
-111,french,expensive,noho,9:50,4,true
-112,italian,medium,east village,9:45,2,true
-113,chinese,medium,greenwich,10:34,4,false
-114,mediterranean,expensive,noho,7:42,5,true
-115,chinese,expensive,gramercy,7:22,2,true
-116,mediterranean,cheap,chelsea,7:45,4,true
-117,korean,medium,gramercy,8:23,5,false
-118,mexican,cheap,chinatown,7:48,3,false
-119,french,medium,chinatown,10:42,5,false
-120,italian,expensive,lower manhattan,8:25,2,true
-121,chinese,expensive,east village,9:27,5,true
-122,mediterranean,cheap,greenwich,8:07,2,true
-123,italian,medium,gramercy,7:03,3,true
-124,italian,medium,noho,10:49,5,false
-125,indian,cheap,soho,10:02,1,true
-126,japanese,cheap,financial district,9:31,1,false
-127,mediterranean,expensive,chinatown,10:39,3,true
-128,indian,expensive,gramercy,9:25,5,false
-129,italian,cheap,gramercy,10:45,3,false
-130,mediterranean,medium,tribeca,10:08,3,false
-131,korean,cheap,chinatown,10:15,4,false
-132,korean,expensive,upper east side,8:55,5,true
-133,chinese,expensive,greenwich,7:23,1,true
-134,korean,medium,east village,7:17,3,true
-135,mediterranean,medium,financial district,8:37,2,false
-136,italian,medium,east village,9:53,3,true
-137,japanese,medium,chinatown,10:34,3,false
-138,indian,cheap,harlem,7:35,3,true
-139,french,medium,upper east side,8:35,1,true
-140,mexican,expensive,upper east side,9:45,2,true
-141,french,cheap,chinatown,9:19,2,true
-142,japanese,cheap,tribeca,8:13,1,true
-143,chinese,cheap,east village,9:37,5,true
-144,italian,expensive,financial district,8:57,3,true
-145,korean,expensive,greenwich,8:15,5,true
-146,japanese,medium,soho,9:02,4,true
-147,mexican,expensive,lower manhattan,9:06,4,false
-148,korean,medium,financial district,7:43,1,true
-149,mediterranean,cheap,upper east side,7:04,5,true
-150,mediterranean,medium,tribeca,10:24,1,false
-151,french,cheap,tribeca,9:10,1,false
-152,korean,cheap,chelsea,7:34,5,true
-153,indian,medium,gramercy,9:09,5,true
-154,mediterranean,cheap,upper east side,9:19,2,false
-155,indian,medium,chinatown,8:07,3,true
-156,mexican,expensive,financial district,8:13,2,true
-157,chinese,expensive,chinatown,7:46,1,false
-158,chinese,expensive,greenwich,10:34,1,true
-159,indian,expensive,chinatown,7:41,4,false
-160,chinese,medium,chelsea,9:43,5,true
-161,mediterranean,cheap,lower manhattan,10:07,4,true
-162,mexican,expensive,chinatown,8:34,4,true
-163,chinese,cheap,upper east side,7:41,4,true
-164,japanese,expensive,tribeca,9:12,3,true
-165,indian,expensive,chelsea,9:53,5,true
-166,italian,cheap,noho,9:23,4,false
-167,mexican,expensive,financial district,10:56,3,true
-168,japanese,medium,tribeca,9:51,2,false
-169,korean,cheap,lower manhattan,8:28,1,false
-170,japanese,expensive,east village,9:39,2,false
-171,mexican,expensive,soho,9:07,4,true
-172,chinese,cheap,financial district,10:17,4,true
-173,chinese,medium,tribeca,10:16,5,true
-174,mexican,cheap,chelsea,9:18,4,true
-175,italian,cheap,east village,7:33,1,true
-176,chinese,medium,east village,7:19,3,false
-177,chinese,expensive,chinatown,10:18,4,true
-178,indian,cheap,noho,7:50,5,true
-179,chinese,expensive,greenwich,7:20,2,false
-180,chinese,cheap,financial district,9:05,5,true
-181,mexican,medium,noho,9:21,1,true
-182,italian,medium,chelsea,7:42,1,true
-183,chinese,cheap,tribeca,9:35,3,false
-184,mediterranean,cheap,chinatown,10:29,5,true
-185,mediterranean,expensive,soho,7:28,1,false
-186,italian,expensive,noho,9:37,1,true
-187,mexican,medium,upper east side,7:20,1,true
-188,japanese,cheap,financial district,10:54,3,true
-189,french,expensive,greenwich,7:52,4,true
-190,french,medium,harlem,7:43,2,true
-191,french,medium,noho,9:07,3,true
-192,indian,medium,chelsea,10:17,5,true
-193,japanese,expensive,upper east side,7:51,4,false
-194,korean,cheap,noho,9:34,5,false
-195,korean,expensive,upper east side,10:43,5,true
-196,japanese,medium,gramercy,8:56,3,false
-197,indian,medium,chelsea,10:26,1,true
-198,italian,expensive,gramercy,10:12,5,false
-199,french,medium,soho,9:52,3,true
-200,japanese,cheap,chelsea,8:35,1,true
-201,chinese,expensive,lower manhattan,7:29,3,false
-202,indian,cheap,upper east side,9:04,4,true
-203,mediterranean,expensive,gramercy,10:55,5,false
-204,mexican,expensive,soho,10:39,3,true
-205,indian,medium,tribeca,10:40,2,true
-206,mexican,expensive,noho,10:43,1,true
-207,french,expensive,noho,10:53,3,true
-208,italian,medium,greenwich,7:58,1,true
-209,korean,medium,gramercy,7:45,4,true
-210,italian,expensive,noho,7:15,5,true
-211,korean,cheap,harlem,10:12,3,false
-212,korean,cheap,chelsea,9:28,2,true
-213,indian,medium,upper east side,8:09,4,false
-214,korean,cheap,harlem,8:00,3,false
-215,italian,cheap,noho,7:52,3,false
-216,italian,medium,tribeca,7:23,5,false
-217,korean,medium,financial district,8:42,4,true
-218,indian,expensive,chinatown,7:42,3,false
-219,mexican,medium,gramercy,10:08,5,false
-220,indian,expensive,chelsea,8:53,2,true
-221,french,cheap,east village,8:16,4,true
-222,mediterranean,expensive,chelsea,10:55,3,false
-223,japanese,expensive,upper east side,9:18,1,false
-224,chinese,cheap,chelsea,7:57,2,false
-225,japanese,expensive,financial district,7:42,1,false
-226,mediterranean,cheap,financial district,8:38,4,false
-227,french,expensive,tribeca,9:31,2,false
-228,mediterranean,cheap,east village,9:20,5,true
-229,indian,medium,noho,7:11,5,true
-230,mediterranean,medium,upper east side,9:05,5,true
-231,japanese,expensive,harlem,7:26,2,true
-232,indian,medium,east village,9:28,1,false
-233,korean,cheap,chinatown,8:21,2,false
-234,indian,medium,chelsea,9:01,2,true
-235,korean,cheap,financial district,9:57,4,false
-236,french,expensive,tribeca,7:18,1,false
-237,korean,medium,lower manhattan,7:15,2,false
-238,indian,expensive,greenwich,7:03,4,false
-239,indian,cheap,greenwich,7:15,1,true
-240,italian,cheap,noho,10:59,1,true
-241,indian,cheap,greenwich,8:20,4,true
-242,japanese,medium,lower manhattan,9:39,1,false
-243,french,expensive,soho,10:08,1,false
-244,korean,expensive,harlem,10:09,5,false
-245,korean,cheap,harlem,9:48,3,false
-246,chinese,cheap,greenwich,7:36,5,true
-247,korean,cheap,upper east side,8:20,1,true
-248,korean,cheap,greenwich,8:55,1,true
-249,french,expensive,upper east side,9:34,1,true
-250,chinese,cheap,harlem,10:45,3,false
-251,italian,cheap,greenwich,10:46,2,true
-252,korean,expensive,lower manhattan,8:27,3,false
-253,mediterranean,expensive,soho,10:32,5,true
-254,italian,expensive,greenwich,7:31,2,false
-255,chinese,medium,chelsea,8:58,1,true
-256,italian,medium,gramercy,7:34,3,true
-257,mexican,expensive,east village,7:18,2,false
-258,japanese,medium,noho,7:02,5,false
-259,mediterranean,medium,gramercy,10:50,4,true
-260,japanese,expensive,chinatown,10:27,1,false
-261,french,medium,east village,9:06,1,true
-262,korean,cheap,chinatown,7:00,2,true
-263,korean,expensive,lower manhattan,8:42,1,true
-264,italian,cheap,financial district,8:39,2,false
-265,mediterranean,cheap,gramercy,10:33,5,false
-266,korean,expensive,financial district,10:07,4,true
-267,chinese,expensive,chinatown,7:00,3,false
-268,mexican,medium,chinatown,9:10,5,true
-269,chinese,cheap,tribeca,9:04,3,false
-270,mexican,cheap,greenwich,10:16,2,true
-271,indian,cheap,greenwich,8:05,5,true
-272,chinese,medium,harlem,8:11,5,true
-273,japanese,expensive,gramercy,8:43,5,true
-274,french,medium,tribeca,9:34,5,false
-275,japanese,expensive,east village,8:01,3,true
-276,korean,expensive,chinatown,8:32,2,true
-277,korean,cheap,chinatown,10:22,3,true
-278,mexican,expensive,financial district,7:04,4,false
-279,korean,cheap,noho,10:53,5,false
-280,chinese,expensive,upper east side,10:59,4,true
-281,chinese,medium,gramercy,10:11,5,false
-282,mexican,cheap,noho,10:50,4,true
-283,japanese,expensive,harlem,9:03,2,false
-284,korean,medium,upper east side,7:04,4,true
-285,italian,cheap,lower manhattan,8:33,5,false
-286,french,medium,chinatown,7:29,4,true
-287,japanese,medium,noho,8:03,3,true
-288,mediterranean,cheap,tribeca,8:58,5,true
-289,indian,cheap,chelsea,8:40,4,false
-290,chinese,expensive,greenwich,8:25,4,false
-291,korean,expensive,soho,10:28,4,true
-292,japanese,cheap,tribeca,7:25,3,true
-293,chinese,cheap,lower manhattan,8:32,3,true
-294,korean,expensive,upper east side,9:25,2,true
-295,chinese,medium,chelsea,7:33,1,false
-296,mediterranean,medium,chelsea,9:01,1,true
-297,mexican,cheap,gramercy,7:31,3,false
-298,mexican,expensive,lower manhattan,10:30,2,false
-299,mexican,medium,financial district,10:42,3,false
-300,japanese,cheap,financial district,10:52,3,true
-301,italian,medium,greenwich,8:44,2,false
-302,indian,medium,chinatown,10:48,1,true
-303,italian,expensive,tribeca,9:56,2,false
-304,indian,cheap,noho,8:10,3,false
-305,french,medium,greenwich,9:57,2,false
-306,indian,cheap,harlem,10:12,4,false
-307,japanese,cheap,harlem,10:38,4,false
-308,mediterranean,medium,east village,10:24,2,false
-309,mexican,expensive,chelsea,8:49,5,false
-310,mediterranean,medium,chinatown,8:50,4,true
-311,french,medium,soho,7:10,5,false
-312,chinese,medium,soho,7:23,4,false
-313,chinese,expensive,chelsea,10:48,3,false
-314,mexican,cheap,lower manhattan,7:18,1,false
-315,chinese,cheap,chinatown,10:27,3,true
-316,japanese,expensive,chelsea,8:39,3,true
-317,korean,expensive,greenwich,9:10,5,false
-318,italian,expensive,chinatown,9:31,2,false
-319,mexican,expensive,chinatown,9:33,1,false
-320,italian,cheap,soho,7:17,4,true
-321,korean,expensive,chinatown,7:08,1,true
-322,mediterranean,expensive,greenwich,9:31,1,true
-323,indian,cheap,chelsea,7:52,1,true
-324,italian,cheap,east village,8:20,2,false
-325,japanese,medium,chelsea,9:56,2,true
-326,mexican,cheap,gramercy,10:21,3,true
-327,chinese,cheap,harlem,9:33,4,false
-328,indian,cheap,soho,7:23,3,true
-329,japanese,expensive,chelsea,7:17,4,true
-330,mediterranean,medium,greenwich,8:10,4,false
-331,korean,medium,greenwich,7:20,1,false
-332,chinese,expensive,east village,9:15,1,false
-333,mexican,cheap,gramercy,8:46,1,true
-334,japanese,cheap,tribeca,8:28,3,true
-335,mexican,expensive,greenwich,8:30,2,false
-336,chinese,medium,harlem,9:02,5,true
-337,italian,cheap,soho,7:11,1,true
-338,mexican,expensive,lower manhattan,10:01,5,false
-339,korean,cheap,gramercy,9:32,3,true
-340,mexican,expensive,lower manhattan,8:59,4,true
-341,mexican,cheap,soho,9:22,2,false
-342,mexican,cheap,lower manhattan,8:03,2,true
-343,chinese,expensive,soho,8:14,4,true
-344,indian,cheap,tribeca,8:26,4,false
-345,indian,cheap,chelsea,10:51,2,true
-346,italian,cheap,lower manhattan,8:44,5,true
-347,mediterranean,cheap,financial district,7:58,4,true
-348,chinese,cheap,noho,9:16,2,false
-349,chinese,expensive,tribeca,10:48,2,false
-350,mexican,cheap,noho,10:39,1,true
-351,japanese,medium,east village,8:58,3,true
-352,indian,medium,gramercy,8:31,3,false
-353,korean,expensive,financial district,10:53,1,false
-354,italian,medium,soho,9:09,1,false
-355,indian,expensive,lower manhattan,10:10,4,true
-356,mediterranean,cheap,tribeca,7:36,1,true
-357,japanese,cheap,chinatown,10:16,4,false
-358,mexican,medium,gramercy,7:47,4,false
-359,chinese,cheap,chinatown,9:09,4,false
-360,italian,cheap,east village,10:31,3,false
-361,french,cheap,greenwich,7:04,2,false
-362,chinese,cheap,chinatown,8:11,1,false
-363,korean,expensive,financial district,7:46,2,false
-364,korean,expensive,chinatown,7:13,1,false
-365,mexican,medium,chinatown,7:49,1,true
-366,japanese,medium,chinatown,9:28,1,true
-367,italian,medium,upper east side,10:09,2,true
-368,japanese,medium,lower manhattan,8:36,2,false
-369,mexican,cheap,gramercy,9:01,5,true
-370,mexican,medium,noho,9:23,1,true
-371,japanese,expensive,financial district,9:14,4,true
-372,japanese,cheap,noho,9:17,3,true
-373,mediterranean,medium,noho,7:45,2,false
-374,chinese,medium,financial district,7:51,3,false
-375,italian,expensive,greenwich,8:38,4,true
-376,french,cheap,greenwich,8:22,4,false
-377,mediterranean,medium,east village,7:30,3,true
-378,mexican,medium,lower manhattan,7:16,1,true
-379,indian,cheap,tribeca,8:27,1,false
-380,indian,medium,chelsea,9:29,3,false
-381,korean,medium,upper east side,10:29,5,true
-382,italian,expensive,gramercy,7:47,1,true
-383,chinese,expensive,soho,7:42,5,true
-384,italian,medium,greenwich,8:02,3,false
-385,italian,cheap,upper east side,10:16,5,true
-386,italian,expensive,lower manhattan,9:09,2,false
-387,mexican,medium,financial district,7:49,4,true
-388,japanese,expensive,lower manhattan,7:47,3,true
-389,italian,expensive,upper east side,10:08,3,true
-390,french,expensive,harlem,9:52,4,false
-391,indian,expensive,greenwich,10:21,3,false
-392,french,expensive,tribeca,7:35,2,true
-393,mexican,cheap,greenwich,10:18,5,true
-394,italian,expensive,upper east side,7:39,3,true
-395,french,cheap,lower manhattan,10:56,4,false
-396,mexican,medium,harlem,9:06,3,false
-397,indian,expensive,greenwich,7:00,5,true
-398,indian,cheap,lower manhattan,9:35,4,false
-399,french,medium,harlem,7:42,3,false
-400,indian,medium,greenwich,7:24,2,true
-401,indian,expensive,lower manhattan,8:03,3,true
-402,korean,expensive,chinatown,8:55,4,false
-403,japanese,medium,greenwich,8:18,5,false
-404,chinese,medium,chinatown,7:40,2,true
-405,indian,cheap,soho,8:15,5,true
-406,mexican,medium,upper east side,7:10,3,false
-407,chinese,cheap,gramercy,9:38,1,false
-408,italian,expensive,east village,9:55,2,true
-409,indian,cheap,greenwich,10:13,1,false
-410,italian,cheap,gramercy,7:12,3,true
-411,indian,cheap,chelsea,7:49,4,true
-412,korean,medium,harlem,9:49,5,true
-413,italian,medium,greenwich,8:52,2,false
-414,korean,expensive,noho,8:16,1,false
-415,mediterranean,cheap,chinatown,10:57,2,false
-416,italian,expensive,harlem,7:05,1,true
-417,korean,expensive,tribeca,9:28,4,false
-418,mediterranean,expensive,harlem,7:41,5,false
-419,japanese,expensive,lower manhattan,8:50,3,false
-420,italian,cheap,financial district,7:26,3,true
-421,mediterranean,expensive,chinatown,10:25,4,false
-422,chinese,medium,upper east side,8:32,5,true
-423,indian,medium,lower manhattan,10:11,5,false
-424,italian,medium,gramercy,8:43,2,false
-425,korean,medium,upper east side,8:58,2,false
-426,italian,expensive,gramercy,8:12,3,true
-427,mediterranean,medium,financial district,9:48,4,false
-428,korean,medium,noho,7:58,2,true
-429,italian,expensive,financial district,10:06,5,true
-430,mexican,expensive,chinatown,9:03,1,false
-431,japanese,medium,noho,8:58,4,true
-432,japanese,medium,greenwich,9:53,4,true
-433,indian,expensive,tribeca,8:29,1,true
-434,mexican,medium,chelsea,7:13,2,true
-435,mediterranean,cheap,harlem,10:31,3,true
-436,mediterranean,cheap,noho,9:56,5,false
-437,japanese,cheap,gramercy,7:45,4,false
-438,korean,medium,lower manhattan,7:37,5,true
-439,chinese,cheap,chelsea,10:38,5,false
-440,indian,cheap,gramercy,8:24,1,false
-441,korean,expensive,lower manhattan,9:28,2,false
-442,mexican,expensive,financial district,7:13,3,true
-443,korean,cheap,tribeca,10:15,2,false
-444,indian,medium,gramercy,10:06,4,true
-445,french,medium,chinatown,10:42,3,true
-446,korean,cheap,chelsea,8:06,4,true
-447,italian,cheap,east village,7:18,1,true
-448,chinese,medium,lower manhattan,7:11,1,true
-449,french,cheap,east village,9:08,2,true
-450,korean,expensive,soho,7:46,1,false
-451,mexican,medium,lower manhattan,10:35,3,false
-452,italian,expensive,financial district,9:19,1,true
-453,french,expensive,soho,8:05,4,false
-454,italian,expensive,noho,8:37,1,true
-455,italian,cheap,tribeca,8:27,1,true
-456,mediterranean,expensive,soho,7:52,3,true
-457,indian,cheap,financial district,10:17,2,true
-458,french,medium,gramercy,7:45,2,false
-459,french,expensive,chelsea,10:14,2,false
-460,indian,cheap,upper east side,7:41,5,false
-461,french,expensive,soho,8:36,1,false
-462,chinese,cheap,lower manhattan,9:31,4,false
-463,japanese,cheap,upper east side,10:10,5,false
-464,italian,cheap,upper east side,8:23,5,true
-465,korean,medium,upper east side,8:21,5,true
-466,mexican,cheap,noho,10:51,1,true
-467,french,expensive,gramercy,10:48,1,true
-468,italian,expensive,chinatown,7:24,4,true
-469,mexican,expensive,east village,9:32,3,true
-470,french,expensive,tribeca,8:37,5,true
-471,indian,cheap,gramercy,8:38,3,false
-472,indian,expensive,soho,8:53,4,false
-473,mediterranean,medium,greenwich,7:57,5,false
-474,chinese,cheap,financial district,8:28,1,false
-475,korean,cheap,soho,8:41,3,true
-476,mediterranean,medium,greenwich,8:32,4,true
-477,mexican,medium,tribeca,10:25,3,true
-478,indian,medium,gramercy,7:08,1,true
-479,chinese,cheap,financial district,9:32,5,true
-480,mediterranean,medium,upper east side,8:37,2,false
-481,mexican,expensive,noho,9:47,4,true
-482,chinese,expensive,financial district,10:34,2,true
-483,japanese,medium,soho,9:51,4,true
-484,indian,expensive,greenwich,10:02,2,true
-485,japanese,cheap,east village,10:09,5,true
-486,chinese,cheap,chinatown,9:14,1,true
-487,indian,medium,noho,8:46,1,true
-488,chinese,expensive,chinatown,8:14,5,false
-489,chinese,medium,lower manhattan,7:13,2,true
-490,japanese,expensive,lower manhattan,8:43,5,true
-491,mediterranean,expensive,upper east side,7:57,4,true
-492,chinese,cheap,east village,9:21,5,true
-493,french,expensive,noho,10:23,3,true
-494,french,medium,chinatown,8:28,3,true
-495,mediterranean,cheap,chinatown,10:55,3,false
-496,italian,expensive,greenwich,10:35,1,true
-497,japanese,medium,greenwich,8:58,2,true
-498,french,medium,chinatown,9:46,3,false
-499,indian,medium,chinatown,9:11,3,false
-500,japanese,cheap,lower manhattan,10:17,1,true
-501,mexican,expensive,tribeca,10:29,1,true
-502,mediterranean,expensive,financial district,9:21,2,true
-503,mexican,expensive,harlem,9:29,1,true
-504,french,cheap,chelsea,7:39,3,false
-505,korean,medium,lower manhattan,9:27,5,false
-506,mexican,medium,tribeca,9:22,5,true
-507,italian,cheap,harlem,10:15,2,true
-508,japanese,expensive,harlem,7:44,3,false
-509,mexican,medium,financial district,8:15,1,false
-510,italian,medium,noho,8:55,5,false
-511,italian,expensive,harlem,7:43,1,true
-512,japanese,medium,greenwich,10:21,3,false
-513,french,medium,chelsea,10:46,3,false
-514,mexican,expensive,east village,9:53,1,true
-515,mediterranean,expensive,gramercy,10:43,1,false
-516,korean,medium,lower manhattan,7:01,2,true
-517,chinese,cheap,harlem,7:45,4,true
-518,mexican,medium,chelsea,9:42,5,true
-519,chinese,cheap,greenwich,7:14,5,true
-520,french,medium,greenwich,8:17,2,false
-521,french,cheap,tribeca,7:44,2,true
-522,french,cheap,chinatown,7:20,5,true
-523,chinese,expensive,gramercy,8:15,2,true
-524,korean,medium,east village,10:37,5,false
-525,mediterranean,medium,greenwich,7:30,3,false
-526,indian,cheap,gramercy,9:52,4,false
-527,japanese,medium,financial district,8:48,5,false
-528,italian,cheap,chinatown,8:35,3,true
-529,mediterranean,cheap,greenwich,9:46,4,true
-530,korean,cheap,upper east side,10:53,4,false
-531,korean,medium,greenwich,8:20,5,false
-532,mediterranean,expensive,noho,10:03,1,true
-533,mediterranean,medium,upper east side,8:09,1,false
-534,italian,medium,greenwich,10:08,3,false
-535,chinese,expensive,soho,9:50,2,true
-536,mediterranean,cheap,noho,9:54,4,false
-537,mediterranean,medium,harlem,10:38,2,false
-538,french,medium,chinatown,8:02,4,false
-539,mexican,expensive,chinatown,9:38,5,true
-540,japanese,cheap,soho,7:16,2,false
-541,french,medium,soho,10:08,1,false
-542,italian,cheap,noho,7:06,2,true
-543,french,cheap,chinatown,9:47,1,true
-544,italian,medium,upper east side,7:37,3,false
-545,mediterranean,cheap,harlem,7:33,4,false
-546,mexican,expensive,east village,7:43,1,true
-547,chinese,expensive,upper east side,8:45,1,false
-548,japanese,expensive,chelsea,8:59,2,false
-549,japanese,medium,harlem,7:50,4,true
-550,japanese,cheap,chinatown,9:54,3,true
-551,chinese,medium,upper east side,9:50,1,true
-552,korean,expensive,tribeca,7:43,3,false
-553,japanese,medium,soho,10:29,2,true
-554,italian,expensive,noho,10:58,3,false
-555,mexican,cheap,harlem,10:25,4,true
-556,french,medium,lower manhattan,10:44,4,true
-557,mexican,cheap,upper east side,9:11,4,true
-558,japanese,medium,east village,10:23,1,false
-559,mexican,medium,tribeca,10:12,4,false
-560,italian,medium,upper east side,9:11,5,true
-561,italian,medium,lower manhattan,9:52,5,true
-562,japanese,expensive,lower manhattan,9:14,1,false
-563,chinese,cheap,lower manhattan,9:18,1,true
-564,korean,cheap,chinatown,7:01,5,true
-565,japanese,expensive,harlem,8:54,2,false
-566,japanese,cheap,soho,8:49,2,true
-567,japanese,medium,financial district,8:37,1,false
-568,chinese,expensive,tribeca,8:31,4,false
-569,chinese,cheap,greenwich,8:51,2,true
-570,indian,medium,greenwich,10:36,5,true
-571,mediterranean,medium,financial district,9:07,1,false
-572,indian,cheap,harlem,7:00,3,false
-573,japanese,medium,upper east side,9:24,2,true
-574,chinese,expensive,harlem,8:59,4,false
-575,italian,expensive,chinatown,9:26,5,true
-576,mexican,cheap,upper east side,10:51,5,false
-577,korean,expensive,financial district,8:48,5,true
-578,french,expensive,chinatown,9:56,3,true
-579,mexican,cheap,financial district,10:05,5,false
-580,mediterranean,expensive,east village,8:33,1,true
-581,indian,expensive,tribeca,10:54,4,false
-582,french,expensive,chelsea,7:00,2,true
-583,mexican,medium,harlem,7:55,4,true
-584,indian,medium,harlem,9:38,1,false
-585,indian,medium,upper east side,10:32,2,true
-586,korean,expensive,greenwich,10:02,1,true
-587,french,expensive,greenwich,10:38,3,false
-588,indian,medium,upper east side,10:16,2,true
-589,japanese,medium,east village,7:14,2,false
-590,mexican,cheap,soho,7:14,1,false
-591,chinese,expensive,noho,10:26,5,true
-592,korean,cheap,soho,8:08,3,true
-593,indian,cheap,chinatown,9:29,4,false
-594,indian,expensive,chinatown,8:43,1,false
-595,chinese,expensive,chinatown,10:11,5,true
-596,indian,expensive,east village,7:40,1,true
-597,mexican,cheap,chelsea,10:06,2,false
-598,mexican,medium,harlem,7:56,4,true
-599,mexican,expensive,east village,9:31,5,true
-600,french,cheap,chelsea,8:51,2,true
-601,japanese,cheap,greenwich,8:21,2,true
-602,japanese,cheap,upper east side,9:01,4,false
-603,korean,cheap,gramercy,8:44,4,true
-604,indian,medium,noho,7:01,2,false
-605,mexican,cheap,lower manhattan,10:15,4,false
-606,chinese,expensive,chelsea,7:07,1,true
-607,korean,expensive,east village,7:59,5,false
-608,japanese,medium,tribeca,10:30,1,true
-609,mexican,medium,gramercy,10:45,2,false
-610,korean,cheap,greenwich,10:20,5,true
-611,japanese,expensive,chelsea,10:07,3,false
-612,french,medium,tribeca,8:10,5,false
-613,japanese,medium,financial district,8:49,2,false
-614,mexican,medium,greenwich,10:28,4,false
-615,mediterranean,cheap,noho,8:25,3,false
-616,mediterranean,expensive,east village,7:06,1,true
-617,french,cheap,harlem,8:17,2,true
-618,mediterranean,cheap,chinatown,9:21,3,false
-619,japanese,medium,chelsea,9:43,1,true
-620,italian,expensive,tribeca,9:16,3,true
-621,italian,medium,gramercy,9:04,2,false
-622,mexican,cheap,greenwich,10:55,1,false
-623,italian,cheap,upper east side,8:31,2,true
-624,french,cheap,chelsea,10:16,5,false
-625,french,medium,harlem,10:22,4,true
-626,mediterranean,expensive,gramercy,10:59,1,false
-627,french,cheap,tribeca,9:44,5,false
-628,indian,medium,tribeca,9:28,3,false
-629,chinese,cheap,harlem,9:28,3,false
-630,mexican,medium,chinatown,7:09,3,false
-631,mexican,expensive,financial district,10:01,4,false
-632,chinese,medium,east village,8:46,4,true
-633,chinese,medium,lower manhattan,10:52,3,false
-634,korean,medium,financial district,9:59,3,false
-635,italian,expensive,harlem,10:40,4,true
-636,indian,expensive,tribeca,10:25,2,false
-637,chinese,cheap,greenwich,9:02,1,true
-638,japanese,cheap,greenwich,9:18,1,true
-639,mediterranean,medium,tribeca,10:48,4,true
-640,mexican,expensive,lower manhattan,9:26,2,true
-641,mexican,cheap,chelsea,8:33,3,true
-642,mexican,medium,harlem,7:40,3,true
-643,japanese,medium,east village,8:44,2,false
-644,chinese,expensive,chinatown,8:30,1,false
-645,korean,cheap,greenwich,8:48,4,false
-646,japanese,expensive,upper east side,7:05,2,true
-647,mexican,medium,east village,8:28,5,true
-648,french,medium,lower manhattan,7:25,3,true
-649,indian,cheap,financial district,8:29,4,true
-650,italian,expensive,noho,7:25,4,true
-651,chinese,medium,harlem,8:47,3,false
-652,chinese,expensive,financial district,10:59,1,true
-653,italian,medium,east village,10:09,2,false
-654,italian,medium,tribeca,9:01,4,false
-655,japanese,expensive,gramercy,10:10,4,false
-656,indian,medium,gramercy,10:24,3,false
-657,chinese,medium,harlem,8:16,4,true
-658,japanese,cheap,harlem,8:22,4,false
-659,korean,cheap,financial district,7:08,3,false
-660,french,medium,lower manhattan,8:00,2,true
-661,french,cheap,noho,10:38,5,true
-662,italian,expensive,gramercy,9:06,3,true
-663,japanese,expensive,greenwich,9:25,4,true
-664,chinese,expensive,upper east side,7:17,5,false
-665,mexican,medium,upper east side,8:14,4,false
-666,japanese,expensive,chinatown,10:54,4,true
-667,french,expensive,east village,9:06,4,false
-668,italian,medium,gramercy,9:06,4,false
-669,indian,medium,lower manhattan,9:48,5,false
-670,korean,cheap,tribeca,7:13,3,true
-671,french,medium,greenwich,9:34,4,true
-672,indian,expensive,harlem,7:08,5,true
-673,indian,cheap,chelsea,10:26,3,false
-674,italian,cheap,chelsea,10:51,2,false
-675,mexican,cheap,noho,7:16,2,true
-676,mediterranean,cheap,lower manhattan,9:08,2,false
-677,korean,expensive,lower manhattan,7:14,2,false
-678,korean,cheap,tribeca,9:34,3,false
-679,indian,medium,chelsea,10:04,3,true
-680,indian,expensive,east village,7:37,3,true
-681,indian,medium,soho,10:59,2,false
-682,french,expensive,upper east side,8:13,4,true
-683,chinese,cheap,gramercy,9:31,1,true
-684,french,expensive,lower manhattan,10:15,1,false
-685,korean,medium,gramercy,7:14,1,true
-686,mediterranean,expensive,greenwich,7:24,1,true
-687,chinese,expensive,chelsea,10:38,2,false
-688,italian,medium,gramercy,8:52,3,true
-689,french,cheap,chelsea,7:18,1,true
-690,french,expensive,greenwich,7:50,3,false
-691,indian,expensive,greenwich,10:50,4,true
-692,french,expensive,east village,9:42,5,false
-693,italian,cheap,noho,8:14,2,true
-694,mexican,cheap,noho,10:39,3,false
-695,italian,cheap,east village,10:21,5,false
-696,italian,cheap,harlem,8:09,3,true
-697,french,medium,greenwich,10:22,4,true
-698,chinese,cheap,lower manhattan,7:14,3,false
-699,french,medium,financial district,9:43,2,false
-700,chinese,expensive,upper east side,9:08,2,true
-701,chinese,medium,lower manhattan,8:09,2,true
-702,indian,medium,chinatown,8:48,1,false
-703,mexican,medium,soho,9:11,4,false
-704,mediterranean,expensive,lower manhattan,9:11,3,false
-705,mexican,expensive,upper east side,10:29,4,false
-706,indian,medium,east village,9:50,4,true
-707,indian,medium,east village,8:00,3,true
-708,chinese,medium,east village,8:18,3,false
-709,french,cheap,lower manhattan,7:20,2,true
-710,mexican,expensive,chinatown,10:49,4,true
-711,indian,expensive,soho,7:26,3,true
-712,french,expensive,chinatown,7:00,5,false
-713,french,cheap,lower manhattan,10:56,5,false
-714,korean,cheap,soho,10:20,1,true
-715,french,expensive,east village,10:41,1,true
-716,indian,cheap,upper east side,10:26,1,false
-717,mexican,cheap,chelsea,9:51,5,false
-718,japanese,cheap,lower manhattan,8:35,1,false
-719,indian,expensive,chinatown,8:52,3,false
-720,mexican,medium,financial district,10:04,1,false
-721,indian,medium,financial district,8:04,5,false
-722,korean,medium,gramercy,8:28,1,false
-723,chinese,medium,noho,8:06,1,true
-724,mexican,medium,tribeca,10:52,1,false
-725,mediterranean,cheap,chinatown,7:12,3,true
-726,chinese,expensive,upper east side,9:18,5,false
-727,korean,medium,chelsea,10:42,4,false
-728,indian,medium,tribeca,10:09,4,false
-729,mediterranean,cheap,gramercy,9:40,1,false
-730,french,cheap,noho,8:30,4,true
-731,chinese,expensive,soho,9:52,2,false
-732,mexican,expensive,financial district,10:18,4,false
-733,indian,expensive,harlem,8:36,1,false
-734,chinese,expensive,harlem,9:57,4,false
-735,korean,medium,gramercy,8:14,4,false
-736,chinese,medium,chelsea,7:52,2,false
-737,mediterranean,expensive,upper east side,9:39,4,true
-738,mexican,expensive,chinatown,8:36,2,false
-739,mexican,medium,harlem,10:20,2,true
-740,french,cheap,harlem,8:55,1,false
-741,indian,cheap,greenwich,8:47,1,false
-742,mexican,expensive,soho,9:20,3,true
-743,japanese,cheap,noho,8:10,2,false
-744,indian,expensive,soho,9:36,5,true
-745,korean,cheap,chelsea,8:48,4,true
-746,mexican,medium,financial district,10:17,1,true
-747,mexican,expensive,east village,9:09,4,true
-748,korean,expensive,gramercy,7:09,4,true
-749,mediterranean,expensive,gramercy,8:34,3,true
-750,mediterranean,expensive,noho,10:06,3,false
-751,mediterranean,medium,greenwich,8:49,3,false
-752,italian,cheap,greenwich,8:43,2,true
-753,chinese,expensive,soho,10:11,2,false
-754,italian,expensive,east village,8:54,3,false
-755,japanese,expensive,upper east side,7:24,5,false
-756,korean,expensive,upper east side,7:21,5,false
-757,italian,medium,tribeca,9:25,1,true
-758,italian,cheap,chelsea,8:21,4,true
-759,japanese,medium,upper east side,8:54,4,false
-760,japanese,medium,upper east side,10:49,2,false
-761,french,expensive,gramercy,8:46,3,true
-762,french,cheap,tribeca,9:47,4,false
-763,korean,expensive,harlem,8:00,1,false
-764,korean,medium,lower manhattan,7:07,3,false
-765,mediterranean,medium,financial district,8:38,1,true
-766,indian,medium,gramercy,7:59,2,false
-767,indian,cheap,harlem,10:47,2,true
-768,indian,expensive,tribeca,7:59,5,false
-769,french,medium,lower manhattan,8:05,3,true
-770,italian,medium,chinatown,8:26,5,false
-771,chinese,medium,chinatown,9:49,2,true
-772,mexican,medium,noho,8:26,1,false
-773,mexican,expensive,financial district,9:41,2,false
-774,japanese,expensive,east village,7:54,5,false
-775,french,medium,tribeca,10:22,3,true
-776,mediterranean,cheap,noho,10:27,2,true
-777,italian,medium,noho,9:29,5,false
-778,french,expensive,tribeca,8:27,2,false
-779,indian,expensive,lower manhattan,9:06,1,false
-780,korean,expensive,greenwich,9:57,2,false
-781,mediterranean,expensive,gramercy,7:55,3,false
-782,indian,cheap,soho,10:29,3,false
-783,japanese,medium,soho,8:44,5,false
-784,chinese,cheap,harlem,8:49,4,true
-785,mediterranean,cheap,upper east side,9:16,2,true
-786,mexican,medium,noho,10:15,2,false
-787,italian,medium,tribeca,7:55,3,true
-788,mexican,medium,upper east side,8:44,2,false
-789,mexican,expensive,harlem,7:09,5,false
-790,mediterranean,medium,chelsea,9:31,2,false
-791,korean,expensive,upper east side,7:21,3,true
-792,chinese,medium,harlem,10:09,3,false
-793,korean,cheap,upper east side,10:52,5,false
-794,japanese,medium,harlem,9:45,1,true
-795,mediterranean,medium,gramercy,9:06,1,false
-796,japanese,expensive,east village,8:19,2,true
-797,french,cheap,lower manhattan,7:31,2,true
-798,mediterranean,medium,upper east side,7:16,2,false
-799,indian,cheap,tribeca,10:26,4,false
-800,french,medium,financial district,10:31,5,false
-801,japanese,medium,harlem,10:45,5,false
-802,indian,cheap,upper east side,9:11,3,true
-803,mediterranean,cheap,greenwich,10:26,1,true
-804,chinese,cheap,chinatown,8:49,3,false
-805,indian,cheap,noho,9:17,2,false
-806,french,medium,gramercy,9:55,5,true
-807,japanese,cheap,chelsea,7:18,4,true
-808,indian,cheap,harlem,7:29,5,true
-809,mediterranean,medium,greenwich,9:13,5,false
-810,italian,medium,soho,7:28,4,true
-811,japanese,expensive,gramercy,9:21,3,true
-812,mediterranean,expensive,greenwich,9:34,5,true
-813,french,medium,lower manhattan,7:59,1,false
-814,chinese,expensive,chinatown,10:42,4,false
-815,indian,expensive,gramercy,8:08,2,false
-816,mediterranean,cheap,lower manhattan,10:13,1,false
-817,french,medium,lower manhattan,7:36,3,false
-818,japanese,cheap,soho,7:16,2,true
-819,italian,expensive,noho,8:14,4,true
-820,korean,medium,financial district,8:35,5,false
-821,french,medium,greenwich,9:04,1,false
-822,mexican,medium,tribeca,9:16,5,true
-823,mediterranean,cheap,gramercy,7:15,5,true
-824,korean,medium,financial district,8:05,5,true
-825,indian,medium,greenwich,8:53,1,false
-826,french,cheap,chinatown,7:40,4,false
-827,mediterranean,cheap,harlem,9:51,2,false
-828,japanese,cheap,chelsea,7:01,5,false
-829,italian,medium,noho,10:48,2,true
-830,mediterranean,expensive,tribeca,7:30,2,false
-831,mediterranean,cheap,financial district,8:14,3,false
-832,french,medium,east village,9:02,5,false
-833,korean,expensive,noho,7:01,1,true
-834,mediterranean,expensive,harlem,8:21,2,false
-835,mexican,cheap,soho,10:10,1,true
-836,italian,cheap,tribeca,7:39,2,true
-837,chinese,cheap,noho,7:53,3,true
-838,mediterranean,medium,tribeca,7:30,3,false
-839,japanese,expensive,east village,8:53,1,false
-840,french,expensive,tribeca,9:05,2,false
-841,japanese,cheap,chelsea,9:43,5,true
-842,indian,cheap,harlem,9:19,4,false
-843,french,medium,financial district,7:44,1,true
-844,indian,expensive,tribeca,10:00,1,true
-845,mexican,expensive,soho,8:12,4,false
-846,indian,medium,tribeca,10:57,3,true
-847,mexican,cheap,east village,10:17,1,false
-848,mediterranean,medium,gramercy,10:20,3,false
-849,korean,medium,financial district,9:52,4,false
-850,mexican,expensive,harlem,10:08,1,true
-851,mexican,expensive,gramercy,10:30,2,false
-852,mexican,medium,gramercy,10:28,5,false
-853,korean,expensive,chelsea,8:23,3,false
-854,french,expensive,tribeca,9:00,2,false
-855,japanese,expensive,east village,8:45,1,true
-856,mexican,expensive,gramercy,10:50,3,false
-857,korean,expensive,upper east side,8:09,3,true
-858,japanese,cheap,noho,10:23,2,false
-859,indian,medium,lower manhattan,7:52,1,false
-860,japanese,medium,noho,7:54,2,true
-861,indian,cheap,upper east side,8:29,3,false
-862,indian,medium,greenwich,10:24,2,false
-863,korean,expensive,chelsea,8:29,5,false
-864,korean,medium,financial district,9:14,3,true
-865,chinese,medium,greenwich,9:39,1,false
-866,mexican,cheap,lower manhattan,7:56,1,true
-867,japanese,cheap,noho,10:38,5,true
-868,italian,cheap,greenwich,10:39,5,true
-869,italian,cheap,east village,8:23,5,false
-870,french,cheap,tribeca,8:34,3,false
-871,korean,expensive,financial district,7:55,4,true
-872,japanese,expensive,noho,9:17,5,false
-873,italian,expensive,soho,7:55,4,true
-874,japanese,cheap,noho,7:20,3,false
-875,indian,medium,gramercy,8:06,1,true
-876,japanese,medium,harlem,8:31,1,false
-877,korean,medium,chelsea,9:57,5,true
-878,mediterranean,cheap,east village,9:58,2,true
-879,korean,expensive,chinatown,10:24,4,true
-880,chinese,medium,greenwich,7:28,4,true
-881,korean,medium,tribeca,7:47,1,true
-882,mediterranean,medium,upper east side,10:31,1,false
-883,indian,expensive,upper east side,10:06,4,false
-884,italian,medium,lower manhattan,9:39,5,false
-885,korean,medium,financial district,8:18,4,true
-886,chinese,cheap,lower manhattan,8:56,4,true
-887,chinese,expensive,noho,10:13,1,true
-888,mexican,medium,lower manhattan,7:19,1,false
-889,japanese,medium,noho,7:16,2,false
-890,korean,cheap,soho,10:39,3,false
-891,korean,expensive,east village,8:09,5,false
-892,korean,expensive,lower manhattan,10:14,5,false
-893,japanese,medium,upper east side,7:39,3,false
-894,chinese,cheap,east village,7:18,4,true
-895,italian,expensive,financial district,8:01,3,true
-896,italian,expensive,upper east side,9:11,1,false
-897,chinese,expensive,financial district,8:52,4,false
-898,japanese,medium,east village,7:19,5,true
-899,korean,cheap,financial district,9:02,5,true
-900,indian,cheap,greenwich,10:34,2,false
-901,indian,medium,lower manhattan,7:20,5,true
-902,mexican,medium,upper east side,9:59,2,true
-903,japanese,cheap,greenwich,7:30,2,false
-904,italian,medium,harlem,8:15,5,false
-905,mexican,cheap,tribeca,8:25,1,true
-906,japanese,expensive,harlem,8:44,3,true
-907,japanese,cheap,gramercy,10:26,2,false
-908,french,expensive,lower manhattan,10:38,4,true
-909,korean,cheap,lower manhattan,10:16,2,false
-910,chinese,medium,financial district,9:31,4,true
-911,japanese,expensive,chinatown,9:02,3,true
-912,japanese,expensive,harlem,9:54,1,false
-913,korean,medium,soho,7:20,2,false
-914,japanese,cheap,gramercy,7:28,5,true
-915,mexican,expensive,greenwich,7:36,5,true
-916,french,cheap,gramercy,8:37,4,false
-917,korean,expensive,chinatown,9:52,2,true
-918,mediterranean,expensive,soho,9:46,1,false
-919,japanese,cheap,harlem,9:05,1,true
-920,mexican,expensive,tribeca,7:34,3,false
-921,french,medium,financial district,8:26,4,true
-922,japanese,cheap,greenwich,9:21,4,true
-923,japanese,expensive,noho,9:29,1,true
-924,french,expensive,noho,9:31,5,true
-925,italian,medium,gramercy,9:29,2,false
-926,french,cheap,greenwich,9:39,4,false
-927,chinese,cheap,upper east side,9:08,3,true
-928,indian,cheap,chinatown,8:27,1,true
-929,mexican,medium,chelsea,10:57,3,false
-930,indian,expensive,gramercy,10:14,4,true
-931,french,medium,tribeca,10:03,3,true
-932,indian,expensive,harlem,10:12,4,true
-933,indian,expensive,harlem,7:15,5,true
-934,chinese,expensive,lower manhattan,7:53,5,true
-935,french,cheap,gramercy,7:19,4,false
-936,french,cheap,lower manhattan,8:23,4,false
-937,chinese,medium,chelsea,9:10,3,true
-938,mediterranean,medium,tribeca,7:41,2,false
-939,japanese,medium,soho,8:17,1,true
-940,japanese,medium,soho,10:05,2,true
-941,mediterranean,cheap,chinatown,9:45,1,true
-942,japanese,cheap,tribeca,10:02,4,true
-943,french,cheap,greenwich,9:57,1,false
-944,french,cheap,lower manhattan,7:39,2,true
-945,french,medium,lower manhattan,7:55,2,true
-946,mexican,cheap,chinatown,8:09,4,true
-947,indian,expensive,east village,9:27,1,false
-948,french,expensive,upper east side,10:53,5,true
-949,mexican,expensive,gramercy,10:41,4,false
-950,japanese,medium,chinatown,10:56,4,true
-951,mediterranean,cheap,east village,8:22,3,false
-952,indian,expensive,chelsea,10:38,2,false
-953,korean,cheap,tribeca,9:45,5,true
-954,japanese,medium,upper east side,7:50,3,true
-955,italian,expensive,soho,8:43,2,true
-956,korean,medium,harlem,7:08,2,true
-957,chinese,cheap,lower manhattan,7:55,3,false
-958,indian,cheap,tribeca,7:26,4,true
-959,japanese,medium,east village,10:24,5,false
-960,chinese,cheap,tribeca,10:43,1,false
-961,japanese,cheap,soho,10:05,2,false
-962,mexican,medium,tribeca,7:04,1,false
-963,french,medium,east village,10:36,5,false
-964,japanese,expensive,chelsea,8:12,2,false
-965,japanese,medium,chelsea,7:58,5,true
-966,korean,medium,soho,8:04,1,false
-967,chinese,expensive,soho,9:18,2,false
-968,korean,cheap,greenwich,9:55,5,false
-969,chinese,medium,lower manhattan,7:15,4,true
-970,mediterranean,expensive,upper east side,9:23,4,false
-971,indian,medium,upper east side,9:12,1,true
-972,korean,expensive,tribeca,9:14,1,false
-973,italian,medium,chinatown,9:38,1,true
-974,japanese,medium,financial district,7:02,2,false
-975,korean,medium,greenwich,7:31,4,false
-976,italian,medium,chinatown,8:31,5,false
-977,mexican,medium,chelsea,10:25,2,false
-978,japanese,cheap,tribeca,9:56,2,true
-979,mediterranean,expensive,chinatown,7:33,4,true
-980,mexican,cheap,tribeca,10:27,5,false
-981,french,medium,greenwich,9:55,5,false
-982,mediterranean,expensive,soho,10:53,4,false
-983,italian,cheap,noho,7:14,3,false
-984,japanese,cheap,gramercy,10:56,2,false
-985,mediterranean,medium,harlem,9:15,1,false
-986,japanese,medium,gramercy,7:11,3,true
-987,indian,expensive,upper east side,7:26,1,false
-988,chinese,medium,soho,10:31,1,false
-989,korean,cheap,greenwich,7:45,2,true
-990,japanese,expensive,chelsea,9:20,5,false
-991,korean,cheap,greenwich,8:15,3,true
-992,french,expensive,upper east side,8:07,2,false
-993,mexican,cheap,financial district,7:25,5,false
-994,korean,cheap,tribeca,9:07,3,true
-995,indian,expensive,chelsea,7:56,2,true
-996,chinese,cheap,harlem,8:41,4,true
-997,chinese,cheap,lower manhattan,7:36,2,false
-998,chinese,medium,harlem,7:42,1,false
-999,indian,expensive,financial district,7:31,5,false
-1000,mediterranean,cheap,chelsea,7:14,5,true
+id,name,category,pricetier,neighborhood,opentime,closetime,ratingstars,kidfriendly
+1,flavor fusion,japanese,expensive,chinatown,10:51,20:44,4,false
+2,yum yum kitchen,mexican,expensive,union square,9:38,20:24,1,false
+3,spice island,japanese,expensive,little italy,9:28,19:03,3,false
+4,sizzle grill,fusion,expensive,greenwich,11:07,21:15,5,false
+5,spice island,mexican,expensive,union square,11:05,16:24,2,false
+6,taste sensation,french,medium,chelsea,11:04,17:12,5,false
+7,taste sensation,fusion,expensive,chelsea,11:07,17:49,1,true
+8,spice island,french,cheap,chinatown,11:05,16:22,3,false
+9,yum yum kitchen,indian,cheap,chinatown,8:57,18:11,3,true
+10,spice island,mexican,cheap,union square,10:38,18:10,1,false
+11,sizzle grill,mediterranean,cheap,chinatown,11:12,21:52,3,true
+12,sizzle and spice,japanese,expensive,tribeca,9:09,16:29,3,false
+13,sizzle grill,vietnamese,expensive,union square,11:29,21:18,3,false
+14,savor street,mediterranean,medium,union square,9:16,21:17,2,true
+15,flavor fusion,mediterranean,cheap,greenwich,11:41,22:56,5,false
+16,crunchy munchies,mexican,expensive,tribeca,10:42,21:26,5,true
+17,flavor fusion,mexican,cheap,little italy,8:21,19:22,3,true
+18,spice island,fusion,medium,harlem,9:43,19:34,3,true
+19,taste sensation,french,cheap,little italy,8:29,22:05,4,false
+20,spice island,italian,medium,chinatown,9:59,20:50,5,true
+21,yum yum kitchen,korean,medium,soho,10:46,21:55,3,true
+22,taste sensation,french,cheap,greenwich,11:46,19:18,5,true
+23,flavor fusion,japanese,cheap,tribeca,11:13,22:27,5,false
+24,spice island,fusion,expensive,east village,9:42,17:18,1,true
+25,savor street,fusion,expensive,little italy,10:29,18:58,5,true
+26,flavor fusion,korean,medium,harlem,11:55,20:50,2,false
+27,crispy crunch,italian,cheap,union square,11:47,19:53,2,false
+28,sizzle and spice,vietnamese,expensive,east village,9:30,17:07,1,false
+29,tasty bites,japanese,cheap,greenwich,9:18,16:43,3,false
+30,savor street,chinese,expensive,chelsea,9:41,16:02,1,false
+31,savor street,japanese,expensive,chinatown,10:59,20:23,3,false
+32,spice island,korean,expensive,chelsea,10:15,17:42,4,false
+33,sizzle grill,japanese,medium,chinatown,10:01,19:12,2,false
+34,spice island,fusion,medium,east village,11:24,18:02,4,false
+35,tasty bites,italian,expensive,east village,11:12,22:42,2,true
+36,sizzle and spice,mediterranean,medium,greenwich,11:42,19:24,3,true
+37,sizzle grill,japanese,medium,chinatown,8:16,18:20,1,false
+38,flavor fusion,japanese,medium,soho,8:21,20:11,3,true
+39,spice island,fusion,expensive,chinatown,10:44,20:40,5,false
+40,savor street,vietnamese,medium,chinatown,8:17,20:02,3,true
+41,sizzle grill,indian,expensive,east village,8:38,19:31,5,true
+42,savor street,mediterranean,expensive,union square,10:53,16:17,1,false
+43,savor street,korean,expensive,soho,11:32,21:59,3,true
+44,tasty bites,chinese,medium,harlem,11:31,19:23,3,false
+45,savor street,japanese,expensive,little italy,8:21,17:35,4,false
+46,crunchy munchies,mediterranean,medium,east village,8:01,21:27,2,false
+47,savor street,french,medium,tribeca,8:57,21:38,4,false
+48,spice island,korean,cheap,little italy,8:59,20:30,4,true
+49,yum yum kitchen,fusion,cheap,greenwich,8:17,20:14,4,false
+50,crispy crunch,vietnamese,cheap,little italy,10:18,22:09,5,true
+51,tasty bites,italian,cheap,soho,8:38,17:37,5,false
+52,sizzle and spice,fusion,cheap,little italy,11:34,18:35,4,false
+53,tasty bites,fusion,cheap,harlem,10:41,17:39,4,true
+54,flavor fusion,mediterranean,medium,little italy,10:47,17:49,3,true
+55,crunchy munchies,japanese,cheap,chelsea,9:20,19:59,4,false
+56,spice island,mediterranean,cheap,chinatown,11:58,22:17,3,false
+57,crunchy munchies,korean,medium,tribeca,10:08,16:31,3,false
+58,savor street,fusion,medium,greenwich,11:32,18:31,4,true
+59,sizzle grill,indian,medium,union square,10:40,18:31,2,false
+60,crispy crunch,indian,expensive,soho,10:34,20:35,1,true
+61,flavor fusion,mediterranean,medium,chelsea,8:27,22:26,2,true
+62,tasty bites,chinese,medium,chinatown,10:43,16:44,4,false
+63,savor street,fusion,medium,chelsea,11:36,18:53,3,false
+64,crispy crunch,vietnamese,medium,upper east,10:34,19:53,2,false
+65,yum yum kitchen,japanese,expensive,chelsea,11:47,16:08,5,false
+66,savor street,chinese,cheap,chinatown,9:28,16:08,4,true
+67,tasty bites,japanese,cheap,union square,11:45,16:11,1,false
+68,crunchy munchies,italian,medium,little italy,10:00,19:18,5,true
+69,flavor fusion,italian,expensive,tribeca,8:42,19:52,5,false
+70,sizzle grill,fusion,expensive,soho,11:46,22:03,5,false
+71,crispy crunch,fusion,expensive,greenwich,9:11,22:48,2,false
+72,crispy crunch,vietnamese,cheap,chelsea,9:06,16:32,5,false
+73,tasty bites,vietnamese,medium,union square,8:30,21:37,4,false
+74,sizzle grill,mediterranean,cheap,chinatown,9:25,19:07,3,true
+75,savor street,mediterranean,medium,east village,11:48,16:34,1,false
+76,savor street,korean,cheap,chelsea,10:01,21:29,4,true
+77,sizzle and spice,mediterranean,expensive,chinatown,10:11,16:11,1,true
+78,crunchy munchies,korean,cheap,little italy,11:37,22:16,5,false
+79,taste sensation,korean,cheap,east village,11:52,16:30,4,true
+80,flavor fusion,mediterranean,expensive,chelsea,8:58,17:19,4,true
+81,savor street,mediterranean,expensive,soho,11:01,22:11,1,true
+82,crispy crunch,chinese,cheap,harlem,9:26,18:15,1,false
+83,flavor fusion,fusion,cheap,soho,11:27,19:50,1,false
+84,taste sensation,korean,medium,soho,9:58,16:07,2,true
+85,crunchy munchies,indian,expensive,union square,9:16,18:02,2,true
+86,sizzle grill,italian,medium,union square,8:55,18:22,2,false
+87,flavor fusion,japanese,expensive,chinatown,9:46,18:49,2,true
+88,savor street,mexican,medium,chelsea,10:18,22:46,3,false
+89,spice island,fusion,cheap,soho,9:05,21:42,5,false
+90,crispy crunch,mediterranean,expensive,east village,9:49,20:04,3,false
+91,sizzle grill,chinese,expensive,soho,10:52,19:38,2,false
+92,flavor fusion,indian,expensive,little italy,11:55,20:41,5,false
+93,crunchy munchies,fusion,medium,chinatown,9:06,20:56,3,true
+94,sizzle grill,korean,expensive,soho,11:46,22:01,3,true
+95,flavor fusion,indian,medium,tribeca,11:31,19:51,3,true
+96,flavor fusion,japanese,medium,union square,11:50,18:26,4,true
+97,sizzle grill,vietnamese,expensive,chelsea,10:55,19:50,3,false
+98,sizzle and spice,japanese,medium,east village,10:30,19:40,5,false
+99,spice island,italian,cheap,upper east,11:37,18:44,3,false
+100,sizzle and spice,mediterranean,cheap,chinatown,10:49,19:11,3,true
+101,yum yum kitchen,italian,expensive,soho,8:13,19:19,3,false
+102,crispy crunch,french,expensive,greenwich,9:10,19:43,4,true
+103,spice island,korean,expensive,greenwich,9:20,21:30,5,true
+104,savor street,french,medium,union square,11:12,19:33,1,true
+105,spice island,vietnamese,cheap,chelsea,10:06,22:29,3,true
+106,crunchy munchies,mexican,medium,little italy,11:12,20:08,5,true
+107,crunchy munchies,japanese,medium,chelsea,10:24,16:55,5,true
+108,savor street,mexican,expensive,union square,11:46,22:32,3,true
+109,crunchy munchies,korean,cheap,harlem,11:13,17:46,5,false
+110,sizzle and spice,korean,cheap,union square,9:22,16:26,3,false
+111,tasty bites,vietnamese,expensive,little italy,9:58,16:10,2,false
+112,tasty bites,chinese,expensive,east village,10:24,19:20,5,false
+113,flavor fusion,vietnamese,medium,upper east,11:38,18:33,5,true
+114,crispy crunch,italian,medium,tribeca,11:37,16:51,1,false
+115,savor street,italian,cheap,union square,10:38,19:16,2,true
+116,flavor fusion,chinese,cheap,soho,8:09,20:28,5,true
+117,crunchy munchies,vietnamese,expensive,tribeca,11:37,19:16,2,false
+118,spice island,chinese,cheap,soho,10:10,16:06,4,true
+119,crispy crunch,japanese,cheap,upper east,9:53,19:00,3,true
+120,tasty bites,italian,medium,greenwich,11:45,21:43,2,true
+121,flavor fusion,mediterranean,medium,chinatown,8:57,18:32,1,false
+122,crunchy munchies,indian,cheap,soho,10:10,18:44,3,true
+123,savor street,japanese,medium,little italy,10:11,21:30,1,false
+124,flavor fusion,indian,expensive,upper east,11:54,21:28,5,false
+125,savor street,japanese,cheap,chelsea,8:05,21:50,4,true
+126,spice island,chinese,medium,east village,11:26,17:59,2,false
+127,sizzle and spice,vietnamese,cheap,upper east,8:16,21:56,1,true
+128,sizzle and spice,indian,medium,little italy,8:05,16:38,3,true
+129,sizzle grill,chinese,expensive,tribeca,8:54,20:40,4,true
+130,crispy crunch,mexican,medium,chinatown,10:02,16:30,3,false
+131,sizzle and spice,french,cheap,union square,9:38,22:08,4,true
+132,spice island,fusion,medium,chinatown,9:33,22:06,3,false
+133,taste sensation,mexican,expensive,upper east,11:04,21:14,2,true
+134,flavor fusion,korean,medium,greenwich,11:54,16:46,4,false
+135,flavor fusion,vietnamese,medium,little italy,8:33,22:30,5,true
+136,tasty bites,korean,cheap,tribeca,8:50,16:06,4,false
+137,savor street,vietnamese,medium,upper east,9:44,19:38,5,false
+138,savor street,mexican,cheap,greenwich,10:44,16:37,5,false
+139,sizzle and spice,italian,medium,soho,8:00,20:29,1,false
+140,crispy crunch,korean,expensive,union square,11:30,17:58,1,true
+141,crunchy munchies,mexican,cheap,east village,8:16,20:53,2,false
+142,spice island,mexican,medium,east village,11:47,22:22,5,false
+143,tasty bites,french,expensive,upper east,9:56,19:07,3,false
+144,savor street,vietnamese,cheap,upper east,8:30,17:15,5,true
+145,tasty bites,japanese,medium,chelsea,10:32,19:42,1,false
+146,savor street,indian,medium,upper east,8:33,20:14,4,false
+147,sizzle and spice,fusion,expensive,chelsea,10:42,19:28,4,false
+148,tasty bites,mexican,cheap,chinatown,8:25,22:55,2,false
+149,crispy crunch,french,cheap,harlem,8:07,19:21,3,false
+150,sizzle grill,korean,cheap,east village,9:53,19:28,4,false
+151,tasty bites,indian,cheap,little italy,9:00,19:18,4,false
+152,crispy crunch,korean,medium,soho,10:05,19:56,3,false
+153,taste sensation,korean,cheap,chelsea,10:28,17:21,1,false
+154,taste sensation,italian,cheap,chinatown,9:40,18:43,1,false
+155,yum yum kitchen,chinese,expensive,chinatown,8:41,22:22,2,false
+156,flavor fusion,mexican,medium,union square,10:10,22:38,5,true
+157,crunchy munchies,korean,expensive,chelsea,8:49,20:02,3,true
+158,tasty bites,mediterranean,cheap,chelsea,9:59,18:24,4,true
+159,crunchy munchies,chinese,cheap,little italy,11:43,17:51,4,true
+160,sizzle and spice,chinese,expensive,tribeca,11:02,18:48,1,false
+161,sizzle and spice,vietnamese,cheap,tribeca,10:26,16:06,2,false
+162,crunchy munchies,mediterranean,cheap,soho,10:19,22:22,1,false
+163,flavor fusion,mexican,cheap,soho,10:21,19:14,1,false
+164,yum yum kitchen,indian,expensive,east village,11:40,18:38,2,false
+165,spice island,mediterranean,expensive,little italy,10:33,19:01,5,true
+166,savor street,chinese,cheap,soho,9:16,16:46,3,false
+167,crispy crunch,chinese,medium,harlem,10:46,21:11,4,true
+168,spice island,korean,expensive,little italy,10:15,18:44,3,false
+169,savor street,vietnamese,expensive,greenwich,10:14,18:11,2,true
+170,sizzle grill,indian,cheap,east village,11:05,20:39,3,false
+171,flavor fusion,korean,medium,little italy,11:28,16:23,1,true
+172,crispy crunch,indian,expensive,greenwich,8:43,20:57,4,true
+173,yum yum kitchen,japanese,medium,little italy,9:32,17:53,5,false
+174,sizzle grill,korean,cheap,harlem,11:52,22:32,4,true
+175,yum yum kitchen,mexican,cheap,east village,11:41,22:03,4,false
+176,taste sensation,indian,expensive,upper east,8:38,16:10,1,true
+177,tasty bites,chinese,expensive,greenwich,11:24,21:43,4,false
+178,crispy crunch,indian,medium,chinatown,11:17,20:45,3,true
+179,crispy crunch,korean,expensive,soho,9:38,19:22,4,true
+180,crunchy munchies,italian,cheap,chinatown,9:29,21:02,4,true
+181,spice island,chinese,medium,tribeca,10:36,21:48,3,false
+182,taste sensation,french,cheap,chinatown,9:37,16:20,3,false
+183,yum yum kitchen,indian,medium,east village,9:37,16:16,1,true
+184,crispy crunch,indian,medium,greenwich,9:22,18:50,5,true
+185,crispy crunch,mexican,medium,upper east,10:29,22:29,2,true
+186,spice island,italian,medium,east village,9:45,20:06,3,false
+187,tasty bites,mexican,expensive,tribeca,8:50,22:15,5,false
+188,crunchy munchies,mediterranean,medium,harlem,9:27,20:28,5,true
+189,taste sensation,vietnamese,medium,chinatown,9:50,16:43,5,false
+190,taste sensation,mexican,expensive,soho,10:54,20:17,3,false
+191,crispy crunch,fusion,medium,greenwich,9:07,22:21,2,false
+192,crunchy munchies,mexican,cheap,little italy,8:43,22:58,1,false
+193,spice island,korean,expensive,upper east,10:56,19:29,2,true
+194,spice island,mexican,medium,little italy,9:29,16:38,1,true
+195,sizzle grill,french,expensive,soho,9:37,21:10,3,true
+196,yum yum kitchen,japanese,cheap,greenwich,10:28,17:56,5,false
+197,yum yum kitchen,mexican,cheap,greenwich,8:21,22:40,5,true
+198,yum yum kitchen,korean,medium,tribeca,8:47,20:02,4,false
+199,sizzle and spice,mexican,cheap,east village,9:03,22:03,2,false
+200,savor street,french,expensive,tribeca,9:45,18:09,2,true
+201,savor street,fusion,cheap,greenwich,9:52,16:37,2,false
+202,spice island,french,medium,greenwich,9:59,17:37,1,true
+203,crispy crunch,japanese,expensive,tribeca,8:41,20:00,3,false
+204,sizzle grill,mediterranean,expensive,soho,10:44,20:36,2,false
+205,tasty bites,italian,expensive,soho,9:54,18:25,5,true
+206,spice island,chinese,expensive,harlem,9:20,18:45,1,true
+207,savor street,korean,expensive,harlem,9:26,21:24,3,true
+208,sizzle grill,korean,medium,soho,11:32,17:04,1,false
+209,yum yum kitchen,french,medium,little italy,11:13,22:18,4,true
+210,crunchy munchies,vietnamese,medium,chelsea,9:32,19:53,2,true
+211,sizzle grill,mexican,cheap,greenwich,9:45,21:51,5,false
+212,savor street,italian,cheap,east village,11:15,20:28,5,true
+213,sizzle grill,fusion,medium,little italy,9:00,21:47,3,false
+214,savor street,korean,expensive,east village,8:26,18:59,5,false
+215,tasty bites,fusion,medium,little italy,10:13,17:43,5,true
+216,spice island,mediterranean,cheap,little italy,8:45,19:12,3,false
+217,sizzle grill,mediterranean,expensive,soho,11:44,17:20,3,true
+218,yum yum kitchen,chinese,expensive,little italy,10:21,22:57,5,false
+219,sizzle and spice,italian,expensive,chinatown,9:00,21:21,3,true
+220,flavor fusion,korean,medium,east village,10:39,20:41,1,true
+221,sizzle grill,indian,cheap,east village,10:38,17:14,5,true
+222,taste sensation,mexican,cheap,union square,8:21,20:52,5,true
+223,savor street,french,medium,soho,8:36,22:49,1,true
+224,spice island,mediterranean,expensive,tribeca,10:19,20:20,5,false
+225,flavor fusion,chinese,medium,east village,10:09,18:41,3,true
+226,sizzle and spice,fusion,expensive,harlem,9:11,16:36,1,false
+227,savor street,mediterranean,medium,little italy,10:42,20:39,1,true
+228,sizzle grill,italian,cheap,soho,11:49,17:44,3,true
+229,flavor fusion,chinese,cheap,soho,10:47,18:46,5,true
+230,tasty bites,vietnamese,medium,tribeca,11:04,16:12,5,true
+231,savor street,mediterranean,cheap,east village,10:46,21:25,5,false
+232,crunchy munchies,indian,expensive,greenwich,8:02,21:47,3,true
+233,crunchy munchies,vietnamese,cheap,east village,11:53,18:15,1,false
+234,spice island,italian,expensive,tribeca,11:09,17:46,3,false
+235,spice island,french,cheap,little italy,10:37,18:13,2,false
+236,yum yum kitchen,mediterranean,expensive,greenwich,9:09,17:43,4,true
+237,crispy crunch,vietnamese,expensive,chelsea,10:15,22:07,1,false
+238,sizzle and spice,fusion,expensive,chinatown,11:58,20:03,3,false
+239,savor street,korean,expensive,soho,9:39,20:00,4,true
+240,yum yum kitchen,french,cheap,union square,11:08,21:17,5,true
+241,crispy crunch,mediterranean,cheap,tribeca,9:27,18:37,5,true
+242,spice island,vietnamese,expensive,chinatown,8:35,19:57,5,true
+243,savor street,mediterranean,medium,chinatown,8:10,17:19,4,false
+244,sizzle grill,vietnamese,expensive,soho,10:15,16:44,5,false
+245,sizzle and spice,mexican,expensive,greenwich,10:52,17:44,1,false
+246,tasty bites,italian,cheap,harlem,9:36,17:00,4,false
+247,tasty bites,french,expensive,union square,9:52,17:17,3,false
+248,taste sensation,mediterranean,expensive,little italy,8:03,18:31,1,false
+249,flavor fusion,fusion,medium,upper east,9:58,17:51,1,false
+250,taste sensation,chinese,cheap,little italy,8:01,18:31,4,true
+251,tasty bites,french,expensive,upper east,11:12,22:57,5,true
+252,yum yum kitchen,mexican,expensive,harlem,10:39,18:23,5,false
+253,savor street,vietnamese,expensive,upper east,11:35,17:13,1,false
+254,tasty bites,korean,cheap,harlem,10:53,16:09,3,false
+255,savor street,vietnamese,medium,east village,8:29,18:16,2,true
+256,savor street,french,cheap,greenwich,9:52,18:18,4,true
+257,crispy crunch,chinese,cheap,east village,8:22,18:19,5,false
+258,crispy crunch,fusion,cheap,harlem,11:50,21:22,3,false
+259,flavor fusion,japanese,expensive,greenwich,9:38,22:00,4,true
+260,crunchy munchies,japanese,medium,little italy,8:34,18:23,5,true
+261,crispy crunch,chinese,expensive,chinatown,10:05,19:34,2,false
+262,spice island,korean,cheap,harlem,8:19,18:47,3,false
+263,spice island,japanese,medium,little italy,10:38,16:38,1,true
+264,spice island,french,expensive,east village,10:01,20:31,1,false
+265,yum yum kitchen,indian,expensive,harlem,11:24,21:18,5,true
+266,taste sensation,mediterranean,cheap,little italy,8:44,19:20,4,false
+267,crunchy munchies,indian,medium,tribeca,11:34,17:07,5,true
+268,sizzle and spice,french,medium,greenwich,8:56,17:01,3,false
+269,yum yum kitchen,chinese,medium,union square,11:18,16:06,4,false
+270,crunchy munchies,indian,medium,chelsea,11:10,22:08,1,false
+271,crunchy munchies,mexican,medium,tribeca,8:30,16:51,1,false
+272,crispy crunch,korean,expensive,east village,10:04,18:40,4,false
+273,crispy crunch,korean,medium,little italy,8:17,18:44,1,true
+274,tasty bites,indian,medium,chelsea,10:58,19:45,3,true
+275,sizzle and spice,vietnamese,expensive,greenwich,9:42,18:38,5,false
+276,crunchy munchies,chinese,cheap,east village,9:52,16:15,1,false
+277,crunchy munchies,fusion,expensive,chelsea,9:37,19:17,2,true
+278,crunchy munchies,fusion,cheap,chinatown,10:10,20:51,3,true
+279,flavor fusion,japanese,cheap,greenwich,9:24,17:59,1,false
+280,taste sensation,japanese,medium,harlem,9:45,16:32,1,true
+281,crunchy munchies,fusion,expensive,harlem,10:27,22:10,2,true
+282,flavor fusion,mediterranean,medium,chelsea,9:51,20:50,5,false
+283,spice island,fusion,medium,harlem,9:19,18:53,3,true
+284,sizzle grill,korean,medium,upper east,9:14,20:33,4,false
+285,sizzle and spice,fusion,expensive,chelsea,8:00,16:13,5,true
+286,sizzle grill,indian,medium,harlem,9:16,18:37,3,true
+287,crispy crunch,korean,cheap,soho,9:06,16:45,1,true
+288,sizzle grill,chinese,expensive,harlem,8:28,19:07,4,true
+289,crunchy munchies,korean,expensive,chelsea,9:11,17:21,3,true
+290,spice island,indian,medium,upper east,8:12,18:17,2,false
+291,yum yum kitchen,mexican,medium,chinatown,10:35,19:36,2,false
+292,tasty bites,italian,cheap,chelsea,8:17,16:34,4,false
+293,crunchy munchies,chinese,medium,chelsea,9:39,22:24,3,false
+294,spice island,mexican,cheap,chinatown,8:34,17:40,1,true
+295,crispy crunch,mexican,cheap,chelsea,10:04,22:59,5,true
+296,tasty bites,korean,medium,greenwich,11:42,18:35,5,true
+297,flavor fusion,korean,expensive,soho,11:16,22:31,2,false
+298,crispy crunch,italian,cheap,tribeca,10:45,19:21,1,true
+299,taste sensation,korean,expensive,soho,10:39,19:48,2,true
+300,tasty bites,vietnamese,cheap,soho,11:40,16:16,5,false
+301,flavor fusion,fusion,cheap,east village,8:36,21:08,1,false
+302,savor street,vietnamese,medium,east village,9:13,18:35,1,false
+303,sizzle grill,chinese,cheap,soho,10:58,18:23,5,false
+304,crunchy munchies,mexican,expensive,upper east,10:08,17:21,1,false
+305,flavor fusion,italian,expensive,union square,9:34,19:24,1,false
+306,spice island,fusion,expensive,chinatown,9:55,17:08,4,true
+307,flavor fusion,chinese,medium,chinatown,8:55,22:16,5,false
+308,flavor fusion,korean,medium,tribeca,10:32,20:29,4,true
+309,savor street,japanese,cheap,tribeca,9:46,22:01,3,false
+310,tasty bites,fusion,cheap,union square,8:00,20:01,5,false
+311,crunchy munchies,french,expensive,little italy,10:37,16:01,1,false
+312,savor street,mediterranean,medium,tribeca,10:52,21:24,5,true
+313,crispy crunch,mediterranean,medium,union square,10:12,19:02,3,true
+314,sizzle grill,italian,expensive,chelsea,11:35,22:07,3,false
+315,sizzle grill,fusion,cheap,greenwich,11:41,16:13,1,true
+316,crunchy munchies,mediterranean,medium,little italy,9:05,22:39,5,true
+317,spice island,french,cheap,soho,11:04,19:44,2,false
+318,flavor fusion,mediterranean,cheap,chinatown,8:21,22:15,5,false
+319,yum yum kitchen,vietnamese,expensive,soho,8:14,18:01,3,false
+320,yum yum kitchen,japanese,medium,upper east,10:59,16:58,1,false
+321,tasty bites,fusion,cheap,little italy,8:13,22:32,3,true
+322,crunchy munchies,fusion,cheap,little italy,11:15,19:33,2,true
+323,crunchy munchies,mediterranean,expensive,east village,8:13,18:49,1,false
+324,yum yum kitchen,indian,cheap,upper east,8:22,16:28,2,false
+325,flavor fusion,vietnamese,expensive,soho,11:36,19:19,3,false
+326,sizzle grill,japanese,cheap,harlem,11:22,17:16,1,false
+327,crispy crunch,vietnamese,expensive,harlem,11:05,21:21,1,false
+328,flavor fusion,japanese,cheap,chelsea,11:46,17:24,4,false
+329,tasty bites,mexican,expensive,chelsea,10:44,19:15,2,true
+330,flavor fusion,mediterranean,cheap,harlem,10:12,18:23,3,false
+331,crispy crunch,french,cheap,greenwich,8:16,20:55,4,false
+332,sizzle and spice,vietnamese,expensive,tribeca,8:06,17:00,5,false
+333,spice island,indian,medium,harlem,11:01,16:14,3,true
+334,crunchy munchies,fusion,expensive,tribeca,11:24,21:31,4,true
+335,spice island,chinese,cheap,chinatown,10:52,16:53,2,true
+336,flavor fusion,japanese,expensive,union square,11:33,20:20,3,false
+337,savor street,japanese,expensive,upper east,10:34,21:29,2,false
+338,sizzle and spice,japanese,medium,greenwich,9:19,18:40,1,false
+339,taste sensation,japanese,medium,chelsea,11:32,21:52,2,false
+340,spice island,vietnamese,medium,upper east,9:54,22:03,5,true
+341,crispy crunch,japanese,medium,little italy,9:07,22:58,2,true
+342,crunchy munchies,french,cheap,upper east,8:49,16:30,5,true
+343,yum yum kitchen,mediterranean,cheap,chinatown,11:02,22:02,5,false
+344,flavor fusion,mexican,medium,chinatown,8:33,16:46,4,false
+345,flavor fusion,italian,medium,tribeca,8:11,20:57,3,true
+346,sizzle grill,mexican,cheap,union square,10:31,21:35,1,false
+347,crispy crunch,chinese,expensive,soho,11:32,16:08,4,true
+348,sizzle grill,vietnamese,medium,upper east,9:33,18:50,5,false
+349,taste sensation,fusion,expensive,upper east,11:59,21:12,4,true
+350,sizzle and spice,fusion,medium,soho,8:13,18:34,2,true
+351,sizzle grill,french,cheap,tribeca,11:54,20:53,1,true
+352,flavor fusion,fusion,expensive,harlem,10:19,22:55,2,false
+353,savor street,italian,expensive,tribeca,11:53,20:40,5,true
+354,sizzle grill,french,expensive,soho,8:59,21:17,5,true
+355,tasty bites,indian,cheap,little italy,10:08,21:05,5,false
+356,savor street,mediterranean,medium,little italy,10:52,19:52,5,false
+357,crispy crunch,italian,cheap,tribeca,9:01,17:25,4,true
+358,crispy crunch,mexican,medium,little italy,9:10,18:59,3,false
+359,savor street,french,cheap,soho,8:01,22:46,3,false
+360,tasty bites,vietnamese,expensive,chelsea,10:17,16:43,2,true
+361,flavor fusion,fusion,medium,tribeca,9:40,16:15,3,false
+362,yum yum kitchen,mexican,medium,little italy,9:10,17:46,1,false
+363,crunchy munchies,mediterranean,medium,harlem,8:27,17:58,4,false
+364,sizzle grill,mediterranean,cheap,greenwich,11:13,17:42,4,false
+365,crispy crunch,chinese,medium,upper east,10:32,22:48,3,true
+366,sizzle and spice,italian,cheap,upper east,11:08,16:11,1,false
+367,sizzle grill,vietnamese,expensive,east village,11:09,21:05,1,false
+368,tasty bites,vietnamese,expensive,union square,10:29,18:11,4,false
+369,sizzle and spice,japanese,cheap,east village,9:57,18:59,1,false
+370,tasty bites,korean,cheap,chelsea,9:46,22:16,5,true
+371,flavor fusion,japanese,expensive,chelsea,11:21,17:30,4,false
+372,yum yum kitchen,chinese,cheap,soho,10:14,22:10,1,false
+373,sizzle and spice,korean,expensive,little italy,8:27,21:35,4,true
+374,sizzle grill,korean,cheap,little italy,8:33,19:59,3,false
+375,spice island,indian,cheap,tribeca,9:29,22:28,4,false
+376,crunchy munchies,fusion,medium,chelsea,11:52,21:15,3,true
+377,sizzle and spice,japanese,medium,east village,10:26,22:08,3,false
+378,tasty bites,italian,cheap,chelsea,9:11,22:26,3,true
+379,yum yum kitchen,chinese,expensive,harlem,8:57,22:59,3,true
+380,crunchy munchies,french,medium,soho,8:51,19:33,3,true
+381,crispy crunch,mexican,expensive,east village,11:21,21:54,3,false
+382,sizzle and spice,italian,medium,tribeca,9:53,16:48,5,false
+383,flavor fusion,mediterranean,medium,chinatown,11:32,20:51,2,false
+384,sizzle and spice,vietnamese,expensive,little italy,11:50,20:02,2,true
+385,yum yum kitchen,vietnamese,expensive,upper east,9:33,21:42,3,true
+386,sizzle grill,french,expensive,soho,8:50,21:35,3,true
+387,crunchy munchies,japanese,medium,little italy,10:27,16:20,1,true
+388,taste sensation,chinese,medium,upper east,10:06,20:24,3,true
+389,sizzle grill,mexican,expensive,union square,11:30,18:56,5,true
+390,sizzle grill,chinese,expensive,east village,8:03,19:35,4,false
+391,yum yum kitchen,vietnamese,expensive,harlem,8:28,22:34,1,false
+392,savor street,indian,expensive,union square,10:08,21:36,2,false
+393,yum yum kitchen,japanese,medium,little italy,9:58,17:44,4,true
+394,taste sensation,fusion,expensive,chinatown,10:55,18:00,4,true
+395,yum yum kitchen,fusion,cheap,chelsea,11:17,21:27,4,false
+396,flavor fusion,french,medium,little italy,8:52,20:35,3,true
+397,tasty bites,korean,cheap,union square,9:50,21:38,5,false
+398,taste sensation,fusion,cheap,little italy,11:38,22:37,5,false
+399,crispy crunch,vietnamese,expensive,upper east,10:00,21:25,3,false
+400,spice island,fusion,expensive,soho,10:33,22:01,4,true
+401,crunchy munchies,indian,expensive,greenwich,10:45,20:42,3,false
+402,spice island,italian,cheap,soho,9:36,18:03,1,true
+403,savor street,vietnamese,expensive,greenwich,8:39,21:04,3,true
+404,tasty bites,chinese,cheap,greenwich,8:50,22:33,5,false
+405,savor street,chinese,medium,greenwich,11:43,19:39,1,true
+406,flavor fusion,french,medium,little italy,10:28,20:03,3,false
+407,savor street,french,medium,greenwich,10:35,18:23,5,true
+408,crunchy munchies,french,expensive,harlem,10:57,20:29,3,true
+409,spice island,mexican,expensive,union square,8:49,20:24,5,true
+410,taste sensation,fusion,cheap,soho,10:55,18:51,3,true
+411,taste sensation,korean,medium,greenwich,8:33,21:50,5,true
+412,spice island,indian,cheap,little italy,10:57,22:25,2,true
+413,crispy crunch,korean,cheap,tribeca,10:03,18:40,4,true
+414,flavor fusion,korean,medium,little italy,8:26,21:48,2,false
+415,tasty bites,fusion,expensive,little italy,9:07,22:03,3,true
+416,taste sensation,chinese,medium,greenwich,8:34,16:11,2,true
+417,crunchy munchies,mediterranean,cheap,chinatown,9:34,18:48,5,true
+418,yum yum kitchen,italian,cheap,soho,11:14,21:46,5,false
+419,savor street,chinese,medium,harlem,9:27,16:10,5,false
+420,tasty bites,indian,medium,harlem,10:35,19:15,3,false
+421,sizzle grill,mexican,medium,east village,8:33,19:34,2,false
+422,savor street,mexican,cheap,soho,9:45,20:59,3,true
+423,yum yum kitchen,indian,medium,upper east,10:08,16:09,5,false
+424,tasty bites,indian,cheap,harlem,10:12,19:58,5,false
+425,spice island,indian,medium,soho,9:32,19:15,1,false
+426,savor street,japanese,cheap,chinatown,11:30,18:41,4,true
+427,sizzle grill,vietnamese,cheap,east village,9:17,18:15,5,true
+428,savor street,mexican,medium,chelsea,10:23,22:04,1,false
+429,sizzle grill,korean,medium,little italy,9:21,19:59,4,true
+430,spice island,korean,medium,soho,8:42,16:48,3,false
+431,flavor fusion,korean,medium,harlem,10:31,18:55,2,true
+432,tasty bites,fusion,cheap,harlem,8:52,21:48,3,false
+433,flavor fusion,french,cheap,union square,11:59,22:17,5,true
+434,crunchy munchies,mediterranean,cheap,union square,8:54,16:47,3,false
+435,sizzle grill,indian,expensive,little italy,8:52,17:35,4,false
+436,flavor fusion,korean,expensive,harlem,8:17,22:05,1,true
+437,sizzle grill,indian,expensive,chelsea,10:57,17:12,5,true
+438,flavor fusion,italian,cheap,union square,8:58,21:31,3,false
+439,sizzle and spice,korean,expensive,soho,9:29,22:46,3,true
+440,sizzle grill,italian,expensive,chinatown,10:04,16:47,1,true
+441,sizzle and spice,mexican,cheap,tribeca,11:21,16:38,3,false
+442,yum yum kitchen,fusion,expensive,tribeca,10:40,18:16,2,true
+443,savor street,korean,cheap,chinatown,8:28,22:38,4,false
+444,crunchy munchies,mexican,cheap,tribeca,11:20,20:56,4,true
+445,savor street,french,medium,greenwich,8:52,17:34,3,false
+446,tasty bites,indian,expensive,union square,8:14,22:59,2,false
+447,crispy crunch,vietnamese,medium,greenwich,11:53,18:31,1,true
+448,sizzle and spice,indian,cheap,union square,8:30,21:25,4,false
+449,crunchy munchies,japanese,expensive,little italy,8:13,22:02,2,false
+450,savor street,vietnamese,cheap,east village,8:38,16:00,2,false
+451,sizzle grill,french,expensive,upper east,10:33,22:40,3,true
+452,crunchy munchies,japanese,expensive,upper east,10:59,22:01,4,true
+453,sizzle grill,chinese,expensive,chelsea,11:16,22:22,3,false
+454,savor street,chinese,cheap,soho,11:11,18:45,5,false
+455,sizzle grill,french,medium,chelsea,8:52,20:26,5,false
+456,yum yum kitchen,french,cheap,tribeca,10:55,21:39,1,false
+457,yum yum kitchen,korean,cheap,union square,10:56,19:23,3,true
+458,crispy crunch,mexican,cheap,union square,9:11,22:27,3,false
+459,sizzle grill,mediterranean,cheap,greenwich,9:56,22:49,1,false
+460,spice island,mexican,cheap,union square,10:52,20:19,4,false
+461,yum yum kitchen,fusion,expensive,greenwich,10:48,20:12,3,false
+462,flavor fusion,vietnamese,expensive,soho,9:19,19:43,1,true
+463,taste sensation,chinese,cheap,upper east,8:47,21:46,3,true
+464,flavor fusion,italian,cheap,soho,10:38,19:37,2,true
+465,taste sensation,mediterranean,expensive,union square,10:31,16:37,2,false
+466,crunchy munchies,indian,expensive,soho,10:05,20:11,1,true
+467,flavor fusion,japanese,expensive,harlem,11:33,22:14,4,false
+468,yum yum kitchen,japanese,cheap,east village,11:52,21:43,5,false
+469,sizzle and spice,fusion,cheap,chelsea,8:17,17:13,2,true
+470,sizzle grill,japanese,medium,harlem,11:51,22:59,3,false
+471,flavor fusion,vietnamese,cheap,upper east,10:19,19:00,5,false
+472,crunchy munchies,indian,expensive,harlem,9:32,22:00,2,false
+473,sizzle grill,fusion,medium,tribeca,11:04,16:09,4,false
+474,yum yum kitchen,korean,medium,little italy,10:06,21:15,5,true
+475,flavor fusion,chinese,cheap,tribeca,9:40,21:41,5,false
+476,tasty bites,vietnamese,medium,greenwich,11:00,21:39,2,true
+477,spice island,fusion,medium,chinatown,9:36,18:32,3,false
+478,tasty bites,italian,expensive,soho,11:45,21:27,3,false
+479,tasty bites,french,medium,chinatown,11:14,16:00,5,true
+480,sizzle and spice,vietnamese,medium,little italy,10:24,18:09,4,true
+481,crispy crunch,mexican,expensive,upper east,8:41,17:01,4,false
+482,crunchy munchies,vietnamese,medium,upper east,9:30,22:11,5,true
+483,yum yum kitchen,indian,cheap,upper east,11:19,22:20,2,true
+484,tasty bites,vietnamese,cheap,greenwich,10:40,16:04,1,true
+485,crunchy munchies,vietnamese,medium,union square,9:35,17:09,4,true
+486,taste sensation,mexican,cheap,little italy,11:45,22:15,4,true
+487,savor street,mediterranean,medium,east village,8:43,19:52,1,true
+488,crispy crunch,french,expensive,greenwich,11:05,19:04,4,false
+489,taste sensation,fusion,expensive,east village,8:50,20:21,3,false
+490,sizzle and spice,mexican,expensive,upper east,10:58,16:11,2,true
+491,taste sensation,vietnamese,medium,chelsea,8:52,21:33,2,true
+492,sizzle and spice,french,expensive,soho,11:58,20:12,4,false
+493,taste sensation,korean,medium,greenwich,9:55,22:08,2,true
+494,tasty bites,korean,expensive,harlem,8:27,20:29,3,false
+495,crunchy munchies,vietnamese,medium,harlem,10:54,19:50,5,false
+496,spice island,korean,expensive,chelsea,9:18,21:51,1,true
+497,spice island,mediterranean,medium,union square,10:50,18:12,1,true
+498,sizzle grill,french,expensive,chinatown,8:14,20:55,2,false
+499,crunchy munchies,korean,cheap,chelsea,9:00,20:22,3,true
+500,spice island,chinese,expensive,chinatown,11:53,18:54,3,true
+501,crispy crunch,italian,expensive,east village,11:33,16:22,5,false
+502,savor street,chinese,medium,upper east,9:04,17:06,1,true
+503,sizzle and spice,korean,cheap,soho,9:46,21:09,4,true
+504,savor street,japanese,expensive,chelsea,8:37,16:34,4,false
+505,yum yum kitchen,french,medium,little italy,11:58,18:17,1,false
+506,savor street,fusion,cheap,upper east,11:03,19:04,2,false
+507,sizzle and spice,mediterranean,medium,east village,8:58,21:58,1,true
+508,sizzle and spice,indian,medium,east village,8:13,18:54,2,false
+509,yum yum kitchen,japanese,cheap,chelsea,10:27,21:34,2,false
+510,sizzle grill,indian,medium,little italy,8:51,19:33,3,true
+511,crispy crunch,french,medium,union square,8:21,18:27,4,false
+512,savor street,korean,cheap,little italy,10:59,18:05,3,false
+513,spice island,japanese,cheap,union square,10:33,20:30,4,true
+514,sizzle grill,mediterranean,medium,harlem,11:09,19:33,3,true
+515,tasty bites,chinese,medium,greenwich,9:43,21:15,3,false
+516,spice island,vietnamese,medium,chelsea,9:26,22:22,2,true
+517,savor street,fusion,cheap,union square,10:43,22:39,1,true
+518,taste sensation,indian,expensive,union square,8:41,19:28,5,false
+519,flavor fusion,fusion,expensive,little italy,9:34,20:53,5,false
+520,yum yum kitchen,fusion,cheap,upper east,10:10,20:57,5,false
+521,sizzle and spice,korean,cheap,soho,8:55,18:39,2,false
+522,yum yum kitchen,korean,expensive,upper east,8:42,17:56,4,true
+523,sizzle and spice,mediterranean,medium,upper east,9:51,22:49,2,false
+524,sizzle grill,mediterranean,medium,upper east,9:25,21:05,5,false
+525,crispy crunch,chinese,expensive,chelsea,8:00,16:17,2,false
+526,savor street,mediterranean,cheap,union square,9:25,16:10,3,false
+527,sizzle and spice,japanese,medium,east village,11:50,18:29,3,false
+528,spice island,indian,cheap,union square,11:00,16:07,3,true
+529,sizzle grill,indian,cheap,union square,8:03,20:36,2,true
+530,savor street,indian,cheap,greenwich,8:10,22:00,4,true
+531,savor street,korean,medium,east village,9:24,21:06,3,true
+532,tasty bites,chinese,medium,little italy,8:53,20:19,4,true
+533,savor street,fusion,expensive,union square,8:24,19:04,2,true
+534,sizzle grill,mediterranean,expensive,upper east,11:52,17:30,3,false
+535,tasty bites,italian,medium,union square,9:51,18:47,3,true
+536,sizzle grill,vietnamese,expensive,little italy,11:32,21:42,4,false
+537,yum yum kitchen,indian,cheap,tribeca,11:08,16:20,2,false
+538,spice island,japanese,expensive,chelsea,9:38,17:38,4,false
+539,tasty bites,korean,expensive,tribeca,11:17,20:55,1,false
+540,savor street,italian,medium,upper east,9:10,17:13,2,true
+541,savor street,french,medium,chelsea,8:27,16:19,5,true
+542,crunchy munchies,japanese,cheap,east village,9:33,19:50,1,false
+543,crispy crunch,korean,expensive,little italy,10:57,19:31,3,false
+544,savor street,mexican,cheap,chelsea,11:45,20:46,1,false
+545,sizzle grill,indian,cheap,harlem,11:13,22:01,5,true
+546,sizzle grill,chinese,cheap,union square,9:04,17:59,4,true
+547,crunchy munchies,mediterranean,medium,east village,9:05,21:38,2,true
+548,flavor fusion,fusion,cheap,harlem,11:19,16:30,4,true
+549,sizzle grill,italian,medium,chelsea,9:55,17:15,1,false
+550,crunchy munchies,korean,expensive,little italy,9:37,21:29,3,true
+551,savor street,mediterranean,cheap,east village,8:05,20:50,5,true
+552,spice island,japanese,cheap,chinatown,8:01,18:10,3,false
+553,sizzle and spice,indian,cheap,chelsea,9:16,22:13,4,true
+554,yum yum kitchen,mediterranean,cheap,harlem,8:16,18:14,5,false
+555,yum yum kitchen,japanese,cheap,greenwich,11:11,16:35,1,true
+556,sizzle and spice,mexican,cheap,union square,11:30,22:23,3,true
+557,savor street,japanese,expensive,soho,11:30,19:27,1,false
+558,savor street,french,expensive,union square,8:04,21:08,2,false
+559,flavor fusion,french,medium,greenwich,8:18,16:58,5,true
+560,crispy crunch,mexican,cheap,harlem,8:36,18:28,5,false
+561,crunchy munchies,japanese,expensive,chelsea,11:20,18:11,3,true
+562,yum yum kitchen,mexican,expensive,chinatown,9:07,21:59,4,false
+563,spice island,chinese,cheap,chinatown,9:37,17:55,2,false
+564,crunchy munchies,korean,cheap,soho,10:30,17:01,4,true
+565,yum yum kitchen,korean,cheap,east village,9:15,19:08,2,false
+566,savor street,italian,medium,chelsea,9:53,19:09,3,false
+567,sizzle and spice,korean,medium,harlem,8:55,16:31,1,false
+568,savor street,mediterranean,expensive,tribeca,11:31,20:26,1,true
+569,tasty bites,mexican,cheap,upper east,8:52,16:26,5,false
+570,flavor fusion,italian,medium,chelsea,9:05,20:04,1,true
+571,sizzle grill,mediterranean,expensive,soho,8:50,20:08,3,false
+572,yum yum kitchen,mediterranean,medium,union square,10:42,21:38,5,true
+573,crispy crunch,mexican,expensive,chinatown,11:22,20:48,1,false
+574,tasty bites,italian,expensive,chinatown,10:55,18:32,1,true
+575,sizzle and spice,fusion,cheap,greenwich,10:38,20:13,5,false
+576,flavor fusion,italian,medium,tribeca,10:59,19:04,2,true
+577,tasty bites,italian,cheap,chinatown,11:57,16:37,1,true
+578,spice island,indian,expensive,soho,8:50,19:57,3,true
+579,savor street,indian,cheap,union square,10:24,18:39,1,false
+580,flavor fusion,italian,expensive,upper east,9:18,19:02,5,false
+581,flavor fusion,mediterranean,cheap,soho,11:19,22:32,2,true
+582,sizzle and spice,chinese,medium,tribeca,8:21,20:03,2,false
+583,savor street,indian,expensive,greenwich,8:14,19:20,1,true
+584,crunchy munchies,chinese,medium,chinatown,10:03,21:18,4,true
+585,savor street,french,expensive,little italy,11:19,20:03,4,true
+586,crispy crunch,fusion,cheap,chinatown,9:01,16:18,3,false
+587,savor street,indian,medium,harlem,11:21,16:22,5,false
+588,spice island,japanese,expensive,little italy,10:34,22:07,5,true
+589,taste sensation,japanese,cheap,greenwich,9:10,16:11,5,false
+590,yum yum kitchen,french,expensive,chelsea,9:36,19:46,3,false
+591,yum yum kitchen,korean,expensive,little italy,10:04,19:08,5,true
+592,tasty bites,indian,cheap,soho,11:38,21:47,4,false
+593,flavor fusion,indian,expensive,tribeca,9:59,19:37,1,false
+594,crunchy munchies,french,expensive,upper east,8:06,19:41,5,false
+595,crispy crunch,indian,cheap,chinatown,8:20,17:09,5,false
+596,savor street,mediterranean,medium,union square,9:47,21:03,4,false
+597,sizzle and spice,mediterranean,expensive,east village,11:02,21:40,4,true
+598,taste sensation,vietnamese,medium,harlem,9:37,19:41,5,false
+599,crispy crunch,mexican,cheap,union square,9:33,19:19,4,false
+600,sizzle grill,chinese,expensive,tribeca,8:32,18:26,3,false
+601,tasty bites,fusion,expensive,tribeca,10:52,21:19,1,true
+602,savor street,chinese,expensive,soho,8:16,22:24,5,true
+603,tasty bites,fusion,expensive,union square,10:06,18:27,1,true
+604,flavor fusion,chinese,cheap,chelsea,8:20,17:31,3,false
+605,sizzle and spice,fusion,medium,tribeca,8:04,18:20,2,false
+606,taste sensation,chinese,medium,chelsea,11:22,16:27,3,false
+607,taste sensation,mexican,expensive,chelsea,8:53,19:08,2,false
+608,spice island,chinese,expensive,union square,11:17,20:24,4,false
+609,flavor fusion,fusion,cheap,upper east,8:56,18:44,2,false
+610,sizzle and spice,french,medium,chinatown,8:39,19:07,3,false
+611,tasty bites,japanese,medium,soho,9:50,16:09,5,true
+612,crunchy munchies,fusion,expensive,chinatown,9:14,21:08,4,false
+613,crispy crunch,chinese,expensive,chinatown,10:03,22:30,2,false
+614,crispy crunch,italian,cheap,harlem,9:02,20:27,3,true
+615,savor street,mediterranean,medium,union square,9:54,22:59,1,false
+616,savor street,vietnamese,medium,tribeca,11:48,19:04,4,false
+617,crunchy munchies,indian,expensive,little italy,11:21,16:49,5,true
+618,flavor fusion,chinese,medium,harlem,8:21,17:13,4,false
+619,sizzle grill,indian,cheap,harlem,9:35,18:58,1,true
+620,spice island,italian,expensive,union square,10:08,16:09,1,true
+621,spice island,korean,cheap,union square,8:05,19:36,5,true
+622,taste sensation,fusion,cheap,harlem,10:03,19:16,2,false
+623,crunchy munchies,mediterranean,expensive,greenwich,8:21,22:18,5,true
+624,tasty bites,japanese,cheap,upper east,8:18,18:51,1,false
+625,crunchy munchies,fusion,expensive,east village,10:42,20:12,2,false
+626,yum yum kitchen,chinese,medium,little italy,11:52,22:16,1,true
+627,taste sensation,indian,cheap,chelsea,11:22,18:22,5,true
+628,flavor fusion,italian,expensive,union square,10:43,19:35,4,true
+629,sizzle grill,mexican,expensive,harlem,10:29,20:50,4,false
+630,crispy crunch,french,medium,upper east,9:01,18:49,4,true
+631,sizzle and spice,indian,medium,tribeca,9:51,20:54,2,false
+632,crunchy munchies,japanese,cheap,east village,10:56,21:21,1,true
+633,tasty bites,french,cheap,soho,9:51,18:49,5,false
+634,flavor fusion,fusion,cheap,chelsea,8:57,21:05,1,false
+635,spice island,korean,expensive,chinatown,10:16,19:40,5,true
+636,flavor fusion,mexican,cheap,greenwich,8:59,19:35,2,false
+637,flavor fusion,fusion,expensive,chelsea,9:07,21:56,1,true
+638,sizzle and spice,fusion,medium,chinatown,8:57,20:16,3,true
+639,tasty bites,french,cheap,soho,8:37,21:57,5,true
+640,taste sensation,chinese,expensive,east village,11:47,17:06,3,true
+641,crunchy munchies,fusion,medium,harlem,11:13,21:15,2,false
+642,tasty bites,chinese,expensive,harlem,8:58,16:54,3,true
+643,tasty bites,vietnamese,cheap,chelsea,10:13,18:49,5,false
+644,crispy crunch,mediterranean,expensive,tribeca,9:02,22:10,1,false
+645,crispy crunch,italian,expensive,little italy,9:43,18:07,2,false
+646,spice island,italian,cheap,harlem,10:34,21:56,3,false
+647,sizzle grill,indian,cheap,little italy,9:11,16:26,5,true
+648,crunchy munchies,french,expensive,chelsea,9:32,18:11,1,true
+649,spice island,mediterranean,expensive,east village,10:43,19:08,3,false
+650,spice island,chinese,medium,harlem,8:52,20:48,1,false
+651,crispy crunch,chinese,expensive,chelsea,10:52,22:16,5,false
+652,flavor fusion,vietnamese,expensive,east village,10:27,21:05,3,true
+653,taste sensation,chinese,expensive,harlem,9:57,21:19,1,true
+654,flavor fusion,vietnamese,cheap,chelsea,9:46,21:17,3,true
+655,crunchy munchies,french,cheap,upper east,10:14,21:17,2,false
+656,sizzle and spice,korean,medium,chelsea,9:31,21:08,4,false
+657,taste sensation,indian,cheap,little italy,8:50,16:32,4,false
+658,flavor fusion,mexican,cheap,east village,10:21,19:33,1,false
+659,taste sensation,fusion,cheap,east village,8:54,16:30,3,true
+660,spice island,korean,cheap,chelsea,11:48,16:54,3,false
+661,crunchy munchies,mediterranean,cheap,chelsea,8:41,18:51,2,false
+662,crispy crunch,korean,cheap,chinatown,10:28,18:01,2,true
+663,tasty bites,korean,medium,upper east,10:05,17:00,5,true
+664,sizzle grill,mexican,medium,chinatown,10:31,21:28,5,false
+665,tasty bites,indian,medium,tribeca,8:41,21:34,4,false
+666,yum yum kitchen,mediterranean,medium,little italy,8:09,19:02,3,true
+667,tasty bites,vietnamese,cheap,greenwich,9:00,17:10,5,false
+668,spice island,chinese,cheap,union square,10:45,22:55,1,false
+669,savor street,mexican,cheap,harlem,8:58,19:11,2,true
+670,crispy crunch,indian,medium,chelsea,11:49,20:57,3,false
+671,taste sensation,chinese,expensive,chinatown,11:24,21:47,4,true
+672,yum yum kitchen,french,medium,little italy,9:44,18:06,3,true
+673,sizzle and spice,chinese,cheap,greenwich,11:53,21:10,1,true
+674,sizzle and spice,french,medium,little italy,8:11,19:48,1,true
+675,spice island,italian,medium,chinatown,8:14,20:26,1,false
+676,sizzle grill,mexican,cheap,east village,9:50,21:20,5,true
+677,tasty bites,mediterranean,medium,upper east,8:02,19:30,4,true
+678,crispy crunch,japanese,cheap,east village,8:24,16:51,1,false
+679,sizzle and spice,japanese,expensive,soho,8:44,20:23,5,true
+680,tasty bites,japanese,cheap,east village,11:28,16:44,2,false
+681,flavor fusion,japanese,medium,soho,11:24,17:21,1,false
+682,sizzle and spice,mexican,medium,union square,9:48,17:44,5,true
+683,savor street,mediterranean,expensive,chinatown,10:42,16:06,3,false
+684,flavor fusion,chinese,cheap,greenwich,11:59,22:00,2,true
+685,flavor fusion,fusion,cheap,union square,8:32,16:18,5,false
+686,tasty bites,fusion,medium,union square,11:32,19:38,1,true
+687,flavor fusion,vietnamese,expensive,soho,8:12,19:36,5,false
+688,yum yum kitchen,mexican,cheap,chinatown,10:15,21:40,5,false
+689,taste sensation,fusion,cheap,chelsea,11:33,17:42,3,false
+690,flavor fusion,indian,cheap,harlem,11:14,17:06,1,false
+691,tasty bites,korean,cheap,chinatown,9:04,20:09,4,true
+692,taste sensation,italian,expensive,upper east,9:56,19:10,1,true
+693,crunchy munchies,fusion,cheap,east village,11:04,21:22,5,false
+694,savor street,japanese,expensive,little italy,10:08,18:13,2,false
+695,spice island,chinese,medium,upper east,10:12,17:12,4,true
+696,yum yum kitchen,mediterranean,expensive,harlem,11:08,17:07,3,true
+697,crispy crunch,korean,medium,east village,9:53,19:04,1,false
+698,sizzle and spice,mexican,cheap,little italy,11:29,17:35,2,false
+699,yum yum kitchen,mediterranean,expensive,upper east,8:24,22:37,4,false
+700,sizzle and spice,indian,cheap,upper east,9:38,18:38,2,false
+701,taste sensation,mexican,expensive,chinatown,9:03,19:04,2,true
+702,sizzle and spice,indian,expensive,harlem,9:49,17:51,5,true
+703,sizzle grill,french,expensive,union square,9:19,17:12,4,true
+704,sizzle grill,french,medium,soho,9:29,16:03,2,true
+705,crunchy munchies,japanese,cheap,little italy,11:05,19:41,4,false
+706,sizzle and spice,fusion,expensive,union square,11:47,18:17,2,false
+707,crunchy munchies,korean,medium,chinatown,9:15,16:57,5,true
+708,sizzle grill,mexican,medium,harlem,11:53,19:41,3,true
+709,sizzle grill,mexican,medium,chelsea,10:46,18:50,3,false
+710,tasty bites,mexican,cheap,little italy,10:14,21:08,1,false
+711,yum yum kitchen,japanese,medium,chelsea,9:07,16:16,1,false
+712,sizzle grill,mediterranean,cheap,little italy,11:57,20:17,4,true
+713,taste sensation,mexican,cheap,soho,10:25,18:11,5,false
+714,flavor fusion,indian,cheap,union square,11:41,22:01,3,true
+715,crispy crunch,japanese,medium,greenwich,11:16,16:02,1,false
+716,sizzle and spice,french,medium,east village,9:20,19:39,2,true
+717,tasty bites,japanese,medium,chelsea,8:22,22:41,3,true
+718,yum yum kitchen,fusion,cheap,tribeca,8:15,21:37,3,true
+719,savor street,french,medium,east village,10:46,17:05,1,false
+720,flavor fusion,japanese,medium,upper east,10:26,17:45,4,true
+721,flavor fusion,vietnamese,medium,little italy,8:25,21:50,5,true
+722,crispy crunch,indian,expensive,little italy,10:12,22:45,4,false
+723,yum yum kitchen,fusion,expensive,soho,10:02,17:19,1,true
+724,crunchy munchies,vietnamese,medium,east village,9:46,21:22,4,true
+725,spice island,japanese,cheap,harlem,9:53,16:43,2,true
+726,sizzle grill,vietnamese,expensive,harlem,10:30,18:00,4,true
+727,sizzle and spice,vietnamese,expensive,east village,8:05,21:16,4,true
+728,taste sensation,italian,expensive,soho,9:46,16:50,5,true
+729,sizzle grill,vietnamese,expensive,tribeca,11:10,18:20,3,false
+730,flavor fusion,mediterranean,cheap,little italy,9:49,21:44,2,true
+731,spice island,japanese,expensive,chinatown,9:40,17:30,2,true
+732,crispy crunch,japanese,expensive,upper east,11:58,17:50,2,true
+733,tasty bites,korean,medium,chelsea,8:53,16:42,4,true
+734,spice island,indian,cheap,chinatown,10:46,19:03,5,false
+735,crunchy munchies,italian,cheap,east village,11:59,17:08,2,false
+736,sizzle and spice,japanese,expensive,soho,9:41,20:06,1,true
+737,yum yum kitchen,mexican,expensive,greenwich,8:58,20:16,5,true
+738,yum yum kitchen,indian,expensive,chinatown,11:22,21:42,2,true
+739,crispy crunch,italian,expensive,harlem,10:59,19:14,2,true
+740,sizzle and spice,italian,medium,harlem,11:19,22:06,2,true
+741,crunchy munchies,french,medium,chelsea,9:16,20:20,1,false
+742,spice island,vietnamese,cheap,soho,9:42,17:21,1,true
+743,spice island,italian,expensive,harlem,10:39,18:30,5,false
+744,crispy crunch,mediterranean,medium,upper east,8:26,16:14,1,false
+745,crunchy munchies,fusion,medium,soho,11:07,19:34,2,false
+746,crispy crunch,korean,cheap,chinatown,11:42,22:17,5,false
+747,sizzle grill,italian,expensive,soho,8:10,18:32,4,false
+748,spice island,japanese,cheap,east village,9:54,22:01,1,true
+749,crunchy munchies,korean,expensive,upper east,8:58,17:02,4,false
+750,crunchy munchies,mexican,cheap,soho,10:32,22:37,2,true
+751,spice island,korean,cheap,tribeca,11:04,20:44,1,true
+752,yum yum kitchen,chinese,expensive,union square,8:39,22:48,5,false
+753,yum yum kitchen,italian,cheap,chelsea,9:07,18:13,5,true
+754,flavor fusion,korean,cheap,harlem,8:15,20:10,5,false
+755,taste sensation,indian,medium,soho,8:55,17:01,4,false
+756,savor street,indian,expensive,upper east,10:16,19:54,2,false
+757,sizzle grill,italian,medium,soho,11:16,16:18,4,false
+758,crunchy munchies,mexican,expensive,east village,8:34,17:23,4,true
+759,sizzle grill,italian,cheap,little italy,8:12,17:41,2,false
+760,flavor fusion,fusion,expensive,chinatown,9:22,16:30,1,true
+761,flavor fusion,french,medium,east village,10:05,16:56,1,true
+762,crunchy munchies,japanese,medium,east village,11:36,18:42,5,true
+763,flavor fusion,mediterranean,expensive,harlem,9:21,17:20,4,true
+764,tasty bites,vietnamese,cheap,soho,10:18,17:37,2,true
+765,yum yum kitchen,korean,cheap,little italy,10:23,21:17,4,false
+766,sizzle and spice,french,expensive,upper east,11:37,18:09,5,true
+767,spice island,mediterranean,medium,upper east,9:57,22:39,2,false
+768,sizzle and spice,japanese,cheap,union square,10:34,19:04,4,false
+769,sizzle and spice,french,cheap,soho,11:04,21:57,4,true
+770,savor street,french,cheap,union square,8:06,16:38,4,false
+771,crunchy munchies,mexican,medium,little italy,9:36,16:47,4,false
+772,tasty bites,italian,medium,union square,8:46,18:41,3,false
+773,yum yum kitchen,chinese,medium,chelsea,9:18,16:00,3,false
+774,crispy crunch,mexican,cheap,little italy,10:12,22:49,4,true
+775,tasty bites,japanese,medium,soho,8:31,20:17,1,false
+776,tasty bites,french,medium,upper east,10:40,17:16,4,false
+777,sizzle grill,fusion,cheap,soho,11:14,17:01,5,true
+778,sizzle and spice,japanese,cheap,soho,9:14,20:13,5,false
+779,sizzle and spice,mediterranean,cheap,chelsea,9:53,19:44,3,true
+780,savor street,italian,medium,soho,11:51,19:57,5,true
+781,crispy crunch,indian,medium,east village,10:03,21:41,4,true
+782,savor street,italian,medium,upper east,11:39,19:58,1,true
+783,sizzle grill,italian,expensive,upper east,8:21,19:58,2,true
+784,tasty bites,mediterranean,medium,soho,10:39,18:48,2,true
+785,sizzle and spice,korean,medium,union square,8:03,18:04,4,false
+786,tasty bites,mediterranean,expensive,chinatown,9:42,20:16,5,true
+787,tasty bites,indian,cheap,east village,8:49,16:54,1,true
+788,tasty bites,chinese,expensive,upper east,10:54,16:24,5,false
+789,flavor fusion,chinese,cheap,tribeca,9:42,20:11,2,false
+790,yum yum kitchen,mexican,medium,chelsea,9:30,20:01,2,false
+791,yum yum kitchen,french,cheap,harlem,10:21,18:30,5,false
+792,savor street,italian,expensive,union square,10:36,22:20,3,false
+793,taste sensation,french,expensive,greenwich,9:45,22:35,5,true
+794,yum yum kitchen,chinese,cheap,harlem,10:22,17:06,4,false
+795,crispy crunch,fusion,expensive,soho,10:07,22:57,5,true
+796,flavor fusion,french,expensive,harlem,11:16,21:57,4,true
+797,crunchy munchies,mediterranean,expensive,chinatown,10:31,22:21,1,false
+798,tasty bites,vietnamese,cheap,tribeca,8:40,19:51,4,false
+799,crunchy munchies,french,expensive,soho,11:12,20:53,2,true
+800,flavor fusion,italian,medium,union square,9:25,21:09,1,false
+801,yum yum kitchen,italian,cheap,little italy,9:40,16:52,3,true
+802,sizzle grill,fusion,expensive,union square,8:13,21:16,4,false
+803,spice island,french,medium,chelsea,8:42,18:42,5,true
+804,tasty bites,mexican,medium,upper east,11:58,17:23,5,true
+805,tasty bites,italian,expensive,chelsea,10:12,17:28,3,true
+806,yum yum kitchen,chinese,cheap,greenwich,9:49,20:12,3,true
+807,crunchy munchies,indian,medium,union square,11:30,18:33,4,false
+808,tasty bites,indian,cheap,greenwich,9:06,19:26,1,true
+809,yum yum kitchen,chinese,medium,tribeca,8:09,22:15,5,true
+810,taste sensation,chinese,medium,east village,8:34,16:06,1,true
+811,sizzle grill,japanese,cheap,harlem,10:11,17:00,2,true
+812,flavor fusion,chinese,expensive,tribeca,8:58,21:23,4,false
+813,flavor fusion,mexican,expensive,little italy,8:30,22:27,4,false
+814,tasty bites,vietnamese,medium,greenwich,10:04,16:29,1,true
+815,tasty bites,mexican,expensive,little italy,9:35,19:38,3,true
+816,savor street,vietnamese,expensive,tribeca,11:47,16:00,3,false
+817,sizzle grill,italian,cheap,chelsea,10:46,16:36,5,true
+818,flavor fusion,french,expensive,tribeca,9:09,20:23,4,false
+819,taste sensation,mediterranean,medium,little italy,11:56,22:45,1,true
+820,sizzle and spice,mexican,expensive,little italy,8:29,21:38,4,true
+821,sizzle and spice,indian,medium,union square,10:00,19:34,3,false
+822,spice island,mediterranean,medium,tribeca,11:53,22:00,5,false
+823,taste sensation,mediterranean,expensive,chinatown,8:42,19:00,2,false
+824,crunchy munchies,italian,cheap,little italy,10:54,17:39,3,true
+825,savor street,french,expensive,harlem,8:24,20:48,3,true
+826,taste sensation,italian,expensive,chelsea,8:51,22:25,5,true
+827,crunchy munchies,fusion,expensive,soho,8:58,22:10,5,false
+828,crunchy munchies,korean,cheap,tribeca,8:12,18:23,5,false
+829,sizzle grill,fusion,medium,upper east,10:34,19:02,3,true
+830,spice island,italian,cheap,upper east,9:07,21:12,1,false
+831,flavor fusion,vietnamese,expensive,east village,9:58,19:01,1,true
+832,tasty bites,vietnamese,expensive,soho,10:42,16:07,2,false
+833,tasty bites,japanese,cheap,greenwich,8:58,21:29,2,true
+834,flavor fusion,vietnamese,medium,little italy,8:21,21:32,5,false
+835,spice island,indian,medium,greenwich,11:27,22:23,3,true
+836,spice island,mexican,cheap,harlem,9:06,16:40,1,true
+837,taste sensation,french,cheap,union square,8:29,18:29,1,false
+838,taste sensation,mexican,cheap,little italy,10:25,17:22,3,true
+839,crunchy munchies,vietnamese,expensive,tribeca,8:43,17:58,1,false
+840,crunchy munchies,japanese,medium,union square,8:31,21:17,1,false
+841,taste sensation,italian,medium,soho,11:19,22:17,2,false
+842,savor street,korean,medium,harlem,10:24,18:28,5,false
+843,yum yum kitchen,vietnamese,medium,greenwich,10:44,18:24,2,true
+844,yum yum kitchen,mediterranean,expensive,upper east,11:06,22:38,2,true
+845,taste sensation,vietnamese,medium,chinatown,10:37,16:53,3,true
+846,tasty bites,french,cheap,tribeca,9:30,18:45,2,false
+847,flavor fusion,japanese,medium,east village,11:55,22:28,4,true
+848,sizzle and spice,chinese,expensive,chinatown,9:57,19:44,3,true
+849,taste sensation,indian,medium,soho,9:01,21:25,5,false
+850,sizzle and spice,italian,expensive,chinatown,9:26,16:18,3,false
+851,crunchy munchies,japanese,expensive,union square,9:48,19:05,4,true
+852,spice island,indian,cheap,little italy,8:54,17:25,5,true
+853,sizzle grill,chinese,expensive,soho,9:37,18:08,5,true
+854,taste sensation,mediterranean,expensive,east village,10:37,17:41,5,true
+855,sizzle and spice,french,expensive,east village,9:28,20:49,5,false
+856,crunchy munchies,mediterranean,expensive,union square,9:34,22:33,5,false
+857,tasty bites,vietnamese,medium,greenwich,8:58,16:48,1,true
+858,spice island,fusion,cheap,upper east,9:49,18:59,5,false
+859,sizzle and spice,chinese,expensive,chelsea,9:20,22:25,5,false
+860,taste sensation,french,expensive,soho,11:14,17:57,4,true
+861,taste sensation,vietnamese,expensive,greenwich,11:08,16:18,4,false
+862,savor street,french,cheap,upper east,8:07,18:04,1,true
+863,taste sensation,vietnamese,medium,soho,8:36,21:34,5,true
+864,taste sensation,vietnamese,cheap,tribeca,10:26,21:02,2,false
+865,crunchy munchies,korean,expensive,soho,11:16,21:43,3,false
+866,flavor fusion,italian,expensive,chelsea,11:30,20:02,5,false
+867,sizzle and spice,fusion,medium,upper east,8:32,21:42,2,true
+868,crispy crunch,french,medium,soho,8:50,17:19,1,true
+869,sizzle and spice,fusion,medium,upper east,11:58,18:27,3,false
+870,flavor fusion,french,medium,greenwich,8:00,18:09,2,false
+871,savor street,mexican,expensive,east village,11:42,17:39,1,true
+872,sizzle and spice,indian,medium,harlem,9:05,16:06,2,false
+873,crispy crunch,mexican,expensive,union square,8:39,22:24,2,true
+874,taste sensation,fusion,expensive,union square,9:03,17:25,4,false
+875,yum yum kitchen,italian,cheap,chelsea,9:02,17:48,4,false
+876,sizzle and spice,indian,cheap,chinatown,11:11,19:38,4,true
+877,crispy crunch,italian,cheap,tribeca,9:53,18:34,1,true
+878,sizzle and spice,french,medium,little italy,11:39,18:07,1,true
+879,crunchy munchies,korean,cheap,tribeca,11:37,21:26,5,false
+880,yum yum kitchen,mexican,medium,tribeca,8:57,16:59,5,false
+881,yum yum kitchen,italian,expensive,east village,10:53,20:50,2,false
+882,tasty bites,french,expensive,union square,8:30,20:20,3,false
+883,crispy crunch,french,medium,soho,9:00,19:57,5,true
+884,crunchy munchies,japanese,cheap,chelsea,9:57,22:51,4,false
+885,sizzle and spice,fusion,medium,upper east,9:37,19:51,2,false
+886,sizzle grill,french,expensive,east village,11:14,21:23,2,true
+887,yum yum kitchen,japanese,cheap,chinatown,11:30,22:08,4,false
+888,crispy crunch,french,cheap,harlem,9:44,21:23,4,false
+889,tasty bites,indian,expensive,tribeca,10:58,22:22,1,false
+890,spice island,chinese,medium,tribeca,10:54,21:06,4,true
+891,spice island,japanese,expensive,upper east,8:26,20:08,3,true
+892,crispy crunch,mexican,expensive,chelsea,11:40,22:31,2,true
+893,tasty bites,vietnamese,expensive,east village,10:13,21:39,1,false
+894,taste sensation,mediterranean,cheap,chelsea,9:47,20:57,2,true
+895,crispy crunch,korean,cheap,upper east,8:54,20:51,5,false
+896,yum yum kitchen,japanese,medium,little italy,8:57,19:52,2,false
+897,sizzle and spice,chinese,expensive,tribeca,9:22,19:51,4,true
+898,tasty bites,mediterranean,expensive,chinatown,11:29,19:49,3,false
+899,crispy crunch,japanese,expensive,tribeca,11:58,19:45,1,true
+900,crunchy munchies,mexican,expensive,greenwich,9:58,19:42,4,false
+901,flavor fusion,korean,expensive,soho,8:38,18:44,3,true
+902,yum yum kitchen,mediterranean,medium,harlem,11:07,18:08,3,false
+903,tasty bites,fusion,expensive,chelsea,11:39,18:35,5,true
+904,flavor fusion,vietnamese,cheap,harlem,11:13,18:55,4,true
+905,taste sensation,japanese,medium,chelsea,11:54,22:58,5,true
+906,crispy crunch,japanese,medium,tribeca,9:13,18:22,5,false
+907,flavor fusion,japanese,expensive,greenwich,10:22,21:37,1,true
+908,spice island,chinese,expensive,chinatown,9:29,20:30,2,false
+909,spice island,indian,cheap,little italy,9:27,22:59,5,true
+910,flavor fusion,italian,cheap,chinatown,8:43,19:39,5,true
+911,taste sensation,japanese,medium,chinatown,8:47,22:55,2,true
+912,crispy crunch,chinese,cheap,chelsea,10:17,21:02,1,false
+913,taste sensation,korean,medium,little italy,9:36,22:15,4,true
+914,yum yum kitchen,fusion,expensive,chinatown,9:55,19:59,4,false
+915,crunchy munchies,chinese,medium,chelsea,8:05,18:25,5,true
+916,sizzle and spice,french,medium,chinatown,9:24,17:11,2,true
+917,yum yum kitchen,mexican,medium,union square,9:19,18:30,3,true
+918,crunchy munchies,japanese,expensive,union square,10:02,19:48,1,true
+919,savor street,indian,expensive,chinatown,9:03,20:01,3,true
+920,yum yum kitchen,mediterranean,cheap,upper east,11:07,20:51,2,true
+921,sizzle and spice,italian,expensive,upper east,10:46,19:13,3,false
+922,crunchy munchies,japanese,cheap,upper east,11:57,21:26,2,true
+923,crunchy munchies,korean,medium,little italy,11:14,18:10,5,true
+924,sizzle grill,italian,cheap,east village,10:22,17:20,2,true
+925,yum yum kitchen,french,medium,chelsea,8:18,20:49,1,false
+926,sizzle grill,french,expensive,soho,11:43,17:54,4,true
+927,tasty bites,chinese,medium,union square,9:38,22:37,1,false
+928,crispy crunch,indian,cheap,east village,9:30,21:36,2,true
+929,savor street,french,cheap,union square,11:00,19:58,5,true
+930,savor street,indian,medium,tribeca,11:46,17:48,5,false
+931,crunchy munchies,vietnamese,expensive,soho,9:41,17:11,2,true
+932,sizzle grill,mediterranean,expensive,greenwich,9:33,16:58,4,true
+933,savor street,japanese,medium,union square,10:24,21:20,5,true
+934,tasty bites,fusion,cheap,chinatown,9:56,22:05,4,false
+935,sizzle grill,vietnamese,cheap,chinatown,8:12,21:36,5,false
+936,yum yum kitchen,vietnamese,cheap,greenwich,8:13,16:46,5,false
+937,flavor fusion,fusion,medium,greenwich,11:13,21:23,4,true
+938,crispy crunch,mediterranean,expensive,tribeca,8:23,21:24,1,false
+939,crispy crunch,mediterranean,cheap,soho,8:52,19:52,4,false
+940,flavor fusion,japanese,cheap,union square,10:59,22:48,4,false
+941,sizzle grill,italian,medium,chelsea,10:49,20:29,2,true
+942,sizzle grill,mexican,cheap,greenwich,9:34,17:00,3,true
+943,tasty bites,french,medium,tribeca,11:56,18:41,1,true
+944,sizzle grill,fusion,cheap,union square,8:29,22:05,3,false
+945,yum yum kitchen,mediterranean,medium,tribeca,10:56,21:22,5,false
+946,spice island,chinese,medium,chelsea,9:24,19:03,2,false
+947,flavor fusion,vietnamese,cheap,east village,9:36,16:02,5,true
+948,taste sensation,vietnamese,medium,tribeca,11:23,19:06,3,true
+949,flavor fusion,italian,expensive,soho,9:18,19:05,1,false
+950,flavor fusion,mexican,expensive,greenwich,8:11,17:29,1,false
+951,savor street,chinese,expensive,little italy,10:54,20:12,3,false
+952,yum yum kitchen,italian,medium,chinatown,9:33,16:43,1,false
+953,yum yum kitchen,indian,expensive,chinatown,11:47,16:37,4,false
+954,savor street,chinese,expensive,chelsea,9:13,18:26,1,true
+955,sizzle grill,french,medium,union square,9:51,19:32,2,false
+956,flavor fusion,vietnamese,expensive,union square,8:28,16:11,1,false
+957,spice island,korean,cheap,east village,11:23,18:53,3,false
+958,spice island,french,expensive,chinatown,9:51,20:35,4,false
+959,crunchy munchies,japanese,cheap,chelsea,9:07,18:18,1,true
+960,flavor fusion,french,cheap,chinatown,8:31,21:10,1,false
+961,taste sensation,indian,expensive,chinatown,9:09,17:46,3,false
+962,sizzle grill,fusion,cheap,tribeca,8:45,17:05,3,true
+963,savor street,chinese,medium,harlem,8:16,19:17,2,false
+964,sizzle and spice,korean,medium,harlem,10:06,16:20,5,false
+965,tasty bites,indian,cheap,harlem,10:26,22:51,1,false
+966,spice island,chinese,medium,soho,8:54,21:16,2,false
+967,yum yum kitchen,fusion,expensive,union square,8:16,19:16,5,false
+968,crispy crunch,fusion,expensive,chelsea,11:23,16:17,2,false
+969,flavor fusion,italian,expensive,upper east,10:43,20:31,2,true
+970,yum yum kitchen,italian,medium,chelsea,9:26,20:20,3,false
+971,yum yum kitchen,japanese,medium,little italy,10:51,16:50,3,false
+972,flavor fusion,vietnamese,cheap,tribeca,11:40,20:54,5,false
+973,sizzle grill,chinese,expensive,tribeca,8:45,16:51,5,false
+974,savor street,japanese,cheap,chelsea,10:15,19:45,3,false
+975,taste sensation,fusion,cheap,upper east,9:51,16:14,3,true
+976,taste sensation,fusion,medium,upper east,9:15,17:07,2,true
+977,sizzle grill,indian,expensive,soho,8:36,16:17,3,true
+978,taste sensation,mexican,cheap,union square,9:23,17:07,4,true
+979,flavor fusion,fusion,medium,union square,9:22,17:12,2,true
+980,crunchy munchies,mexican,expensive,soho,11:01,18:31,4,false
+981,spice island,japanese,medium,soho,11:34,16:29,1,true
+982,spice island,japanese,cheap,tribeca,10:26,21:00,5,false
+983,savor street,french,expensive,soho,8:32,20:35,3,false
+984,crispy crunch,mediterranean,medium,little italy,11:21,20:42,2,false
+985,crunchy munchies,indian,cheap,east village,11:35,22:15,1,true
+986,spice island,mexican,expensive,harlem,10:39,20:18,1,true
+987,flavor fusion,korean,cheap,chinatown,9:05,16:41,3,true
+988,tasty bites,mediterranean,medium,harlem,11:28,17:10,3,true
+989,crunchy munchies,japanese,expensive,greenwich,10:47,22:35,2,false
+990,savor street,fusion,cheap,greenwich,8:53,20:21,4,false
+991,taste sensation,italian,cheap,greenwich,8:06,18:17,1,false
+992,crispy crunch,mexican,medium,upper east,8:27,18:50,3,true
+993,taste sensation,indian,cheap,union square,9:36,22:31,2,true
+994,crispy crunch,mexican,cheap,soho,10:17,18:54,4,false
+995,crispy crunch,korean,expensive,greenwich,11:05,20:22,5,false
+996,flavor fusion,mediterranean,expensive,east village,11:37,22:32,3,true
+997,taste sensation,indian,cheap,chelsea,8:43,16:02,4,false
+998,spice island,indian,cheap,soho,9:30,19:56,4,false
+999,tasty bites,french,expensive,soho,9:07,19:49,3,true
+1000,tasty bites,vietnamese,medium,east village,9:20,22:15,2,true
